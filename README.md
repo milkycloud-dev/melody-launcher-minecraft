@@ -97,9 +97,13 @@ chmod +x NoteBuns_4.4.0_amd64.AppImage
 
 ## 🔐 Исходный код
 
-Исходный код лаунчера является **закрытым** и доступен **только по запросу** в нашем Discord-сервере: [discord.gg/KZhbk2UeQz](https://discord.gg/KZhbk2UeQz)
+Исходный код лаунчера является **закрытым (проприетарным)**.
 
-Запрос на ознакомление с исходным кодом рассматривается командой индивидуально.
+Если вы хотите ознакомиться с исходным кодом — напишите запрос напрямую разработчикам в Discord-сервере:
+👉 [discord.gg/KZhbk2UeQz](https://discord.gg/KZhbk2UeQz)
+
+Найдите в сервере разработчиков: **@milky_eu** или **@eturnercus**  
+Каждый запрос рассматривается командой индивидуально.
 
 ---
 
@@ -107,8 +111,8 @@ chmod +x NoteBuns_4.4.0_amd64.AppImage
 
 | | |
 |---|---|
-| **Ведущий разработчик** | [@milky_eu](https://t.me/milky_eu) (Telegram) |
-| **Разработчик** | [@eturnercus](https://t.me/eturnercus) (Telegram) |
+| **Ведущий разработчик** | **@milky_eu** в Discord → [discord.gg/KZhbk2UeQz](https://discord.gg/KZhbk2UeQz) |
+| **Разработчик** | **@eturnercus** в Discord → [discord.gg/KZhbk2UeQz](https://discord.gg/KZhbk2UeQz) |
 | **Поддержка** | [Discord сервер NoteBuns](https://discord.gg/KZhbk2UeQz) |
 
 ---
