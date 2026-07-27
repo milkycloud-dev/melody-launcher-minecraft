@@ -1,6 +1,7 @@
 {
   "schema": "notebuns.changelog.v1",
   "maintainer": "MilkyDev",
+  "telegram": "https://t.me/milkydev",
   "versions": [
     {
       "version": "5.0.2",
