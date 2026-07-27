@@ -6,5 +6,25 @@
   "enable_news": true,
   "launcher_bg": "https://download.inflexus.world/assets/launcher_bg.jpg",
   "launcher_logo": "https://download.inflexus.world/assets/bun.png",
-  "java_args": "-Xmx{RAM}m -Xms256m -Dfile.encoding=UTF-8"
+  "java_args": "-Xmx{RAM}m -Xms256m -Dfile.encoding=UTF-8",
+
+  "_mirrors_note": "Порядок опроса источников. Лаунчер запрашивает все адреса ОДНОВРЕМЕННО и берёт ответ от самого приоритетного, который откликнулся. Встроенные в лаунчер адреса всегда дописываются в конец списка, поэтому опечатка здесь не оставит клиент без источника. Менять можно без выпуска новой версии лаунчера.",
+
+  "settings_mirrors": [
+    "https://raw.githubusercontent.com/milkycloud-dev/melody-launcher-minecraft/main/settings.json",
+    "https://download.milkycloud.online:2556/settings.json",
+    "https://download.inflexus.world/settings.json"
+  ],
+
+  "news_mirrors": [
+    "https://download.inflexus.world/cloud/news/news_v3.json",
+    "https://raw.githubusercontent.com/milkycloud-dev/melody-launcher-minecraft/main/cloud/news/news_v3.json",
+    "https://download.milkycloud.online:2556/cloud/news/news_v3.json"
+  ],
+
+  "index_mirrors": [
+    "https://download.inflexus.world/cloud/index_v3.json",
+    "https://download.milkycloud.online:2556/cloud/index_v3.json",
+    "https://raw.githubusercontent.com/milkycloud-dev/melody-launcher-minecraft/main/cloud/index_v3.json"
+  ]
 }
