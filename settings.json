@@ -18,8 +18,8 @@
 
   "news_mirrors": [
     "https://download.inflexus.world/cloud/news/news_v3.json",
-    "https://raw.githubusercontent.com/milkycloud-dev/melody-launcher-minecraft/main/cloud/news/news_v3.json",
-    "https://download.milkycloud.online:2556/cloud/news/news_v3.json"
+    "https://download.milkycloud.online:2556/cloud/news/news_v3.json",
+    "https://raw.githubusercontent.com/milkycloud-dev/melody-launcher-minecraft/main/cloud/news/news_v3.json"
   ],
 
   "index_mirrors": [
