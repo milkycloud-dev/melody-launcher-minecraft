@@ -1,0 +1,49 @@
+{
+  "tag_name": "v5.1.1",
+  "assets": [
+    {
+      "name": "NoteBuns-Installer-macOS-aarch64-apple-darwin-v5.1.1.dmg",
+      "browser_download_url": "https://github.com/milkycloud-dev/melody-launcher-src/releases/download/v5.1.1/NoteBuns-Installer-macOS-aarch64-apple-darwin-v5.1.1.dmg"
+    },
+    {
+      "name": "NoteBuns-Installer-macOS-x86_64-apple-darwin-v5.1.1.dmg",
+      "browser_download_url": "https://github.com/milkycloud-dev/melody-launcher-src/releases/download/v5.1.1/NoteBuns-Installer-macOS-x86_64-apple-darwin-v5.1.1.dmg"
+    },
+    {
+      "name": "NoteBuns-Portable-macOS-aarch64-apple-darwin-v5.1.1.zip",
+      "browser_download_url": "https://github.com/milkycloud-dev/melody-launcher-src/releases/download/v5.1.1/NoteBuns-Portable-macOS-aarch64-apple-darwin-v5.1.1.zip"
+    },
+    {
+      "name": "NoteBuns-Portable-macOS-aarch64-apple-darwin-v5.1.1.zip.sha256",
+      "browser_download_url": "https://github.com/milkycloud-dev/melody-launcher-src/releases/download/v5.1.1/NoteBuns-Portable-macOS-aarch64-apple-darwin-v5.1.1.zip.sha256"
+    },
+    {
+      "name": "NoteBuns-Portable-macOS-x86_64-apple-darwin-v5.1.1.zip",
+      "browser_download_url": "https://github.com/milkycloud-dev/melody-launcher-src/releases/download/v5.1.1/NoteBuns-Portable-macOS-x86_64-apple-darwin-v5.1.1.zip"
+    },
+    {
+      "name": "NoteBuns-Portable-macOS-x86_64-apple-darwin-v5.1.1.zip.sha256",
+      "browser_download_url": "https://github.com/milkycloud-dev/melody-launcher-src/releases/download/v5.1.1/NoteBuns-Portable-macOS-x86_64-apple-darwin-v5.1.1.zip.sha256"
+    },
+    {
+      "name": "NoteBuns-Portable-v5.1.1.exe",
+      "browser_download_url": "https://github.com/milkycloud-dev/melody-launcher-src/releases/download/v5.1.1/NoteBuns-Portable-v5.1.1.exe"
+    },
+    {
+      "name": "NoteBuns-Portable-v5.1.1.exe.sha256",
+      "browser_download_url": "https://github.com/milkycloud-dev/melody-launcher-src/releases/download/v5.1.1/NoteBuns-Portable-v5.1.1.exe.sha256"
+    },
+    {
+      "name": "NoteBuns_5.1.1_aarch64.dmg",
+      "browser_download_url": "https://github.com/milkycloud-dev/melody-launcher-src/releases/download/v5.1.1/NoteBuns_5.1.1_aarch64.dmg"
+    },
+    {
+      "name": "NoteBuns_5.1.1_amd64.AppImage",
+      "browser_download_url": "https://github.com/milkycloud-dev/melody-launcher-src/releases/download/v5.1.1/NoteBuns_5.1.1_amd64.AppImage"
+    },
+    {
+      "name": "NoteBuns_aarch64.app.tar.gz",
+      "browser_download_url": "https://github.com/milkycloud-dev/melody-launcher-src/releases/download/v5.1.1/NoteBuns_aarch64.app.tar.gz"
+    }
+  ]
+}
