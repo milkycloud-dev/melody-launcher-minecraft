@@ -1,0 +1,96 @@
+{
+  "version": 6,
+  "generated": "2026-07-31T00:41:03+02:00",
+  "settings": {
+    "launcher_bg": "https://download.inflexus.world/assets/launcher_bg.jpg",
+    "launcher_logo": "https://download.inflexus.world/assets/bun.png",
+    "enable_news": true,
+    "custom_cursors": true,
+    "server_host": "auth.inflexus.world",
+    "server_port": 25565
+  },
+  "endpoints": {
+    "gate": "https://auth.inflexus.world",
+    "news_publish": "https://download.milkycloud.online:2556/api/news/publish"
+  },
+  "mirrors": {
+    "config": [
+      "https://raw.githubusercontent.com/milkycloud-dev/melody-launcher-minecraft/main/config-v6.json",
+      "https://download.inflexus.world/config-v6.json",
+      "https://download.milkycloud.online:2556/config-v6.json"
+    ],
+    "news": [
+      "https://raw.githubusercontent.com/milkycloud-dev/melody-launcher-minecraft/main/news-v6.json",
+      "https://download.inflexus.world/news-v6.json",
+      "https://download.milkycloud.online:2556/news-v6.json"
+    ],
+    "index": [
+      "https://download.inflexus.world/cloud/index_v3.json",
+      "https://download.milkycloud.online:2556/cloud/index_v3.json",
+      "https://raw.githubusercontent.com/milkycloud-dev/melody-launcher-minecraft/main/cloud/index_v3.json"
+    ],
+    "release": [
+      "https://api.github.com/repos/milkycloud-dev/melody-launcher-src/releases/latest",
+      "https://raw.githubusercontent.com/milkycloud-dev/melody-launcher-minecraft/main/latest.json",
+      "https://download.inflexus.world/latest.json",
+      "https://download.milkycloud.online:2556/latest.json"
+    ]
+  },
+  "links": {
+    "shop": "https://notebuns.easydonate.ru/",
+    "discord": "https://discord.gg/KZhbk2UeQz",
+    "telegram": "https://t.me/notebuns_minecraft",
+    "site": "https://notebuns.inflexus.world",
+    "bugreport": "https://discord.gg/ATrVAemPtA"
+  },
+  "ui": {
+    "nav.news": "Новости",
+    "nav.shop": "Магазин",
+    "nav.rules": "Правила",
+    "nav.changelog": "Что нового",
+    "nav.settings": "Настройки",
+    "dock.play": "Играть",
+    "dock.loading": "Загрузка",
+    "dock.launched": "В игре",
+    "dock.nick_placeholder": "Никнейм",
+    "dock.keep_launcher": "Не закрывайте лаунчер, пока играете — иначе сервер отключит вас",
+    "sidebar.vtubers": "Витуберы",
+    "sidebar.community": "Сообщество",
+    "server.online": "В сети",
+    "server.maintenance": "Тех. работы",
+    "server.offline": "Недоступен",
+    "server.checking": "Проверяем...",
+    "common.close": "Закрыть",
+    "common.cancel": "Отмена",
+    "common.save": "Сохранить"
+  },
+  "notice": {
+    "enabled": true,
+    "title": "Регламент и уведомления (Обновлено 30.07.2026)",
+    "rules": {
+      "title": "Условия и правила поведения",
+      "subtitle": "На сервере запрещено:",
+      "items": [
+        "• Использование сторонних лаунчеров (в том числе чит-клиентов) для доступа к серверу.",
+        "• Гриферство в любом виде, а также создание механизмов, намеренно снижающих производительность сервера.",
+        "• Использование любых игровых багов и уязвимостей для получения преимущества.",
+        "• Любые проявления токсичного и вредоносного поведения в текстовых и голосовых чатах.",
+        "⚠️ Администрация в лице cinaminnie, Melody Note, разработчиков и модераторов оставляет за собой право ограничить доступ к серверу в любой момент без объяснения причин.",
+        "⚠️ Выданные наказания разъяснению или обжалованию не подлежат."
+      ]
+    },
+    "privacy": {
+      "title": "Политика конфиденциальности и защита данных",
+      "paragraphs": [
+        "• Для защиты игрового сообщества лаунчер NoteBuns собирает базовую техническую информацию об устройстве (включая IP-адрес) и привязывает её к вашему игровому аккаунту.",
+        "• Эти данные необходимы для защиты лаунчера от взлома, предотвращения повторного входа нарушителей и корректной работы античита.",
+        "• Оператором данных выступает частное лицо. Обработка и хранение осуществляются в соответствии с требованиями GDPR (Общего регламента по защите данных ЕС).",
+        "• Исходный код лаунчера NoteBuns предоставляется по запросу к разработчикам в Discord. Неавторизованная модификация, декомпиляция или распространение сторонних сборок лаунчера может преследоваться по закону вашей юрисдикции."
+      ]
+    },
+    "support": {
+      "text": "В случае возникновения проблем или ошибок, пожалуйста, обращайтесь на официальный Discord-сервер лаунчера NoteBuns:",
+      "url": "https://discord.gg/ATrVAemPtA"
+    }
+  }
+}
