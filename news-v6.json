@@ -2,15 +2,46 @@
   "version": 6,
   "cards": [
     {
-      "id": "test-card",
-      "kind": "card",
-      "title": "Проверка публикации 12:18:10",
-      "text": "Карточка создана автоматической проверкой и будет убрана.",
-      "image": "",
+      "id": "welcome",
+      "kind": "wide",
+      "title": "Новый лаунчер NoteBuns",
+      "text": "Обновлённый интерфейс, курсоры в исходном качестве и живой статус сервера прямо на кнопке запуска.",
+      "image": "https://picsum.photos/seed/notebuns-launcher/1200/500",
       "link": "",
-      "date": "2026-08-02"
+      "date": "2026-08-02",
+      "tag": "Обновление"
+    },
+    {
+      "id": "season",
+      "kind": "square",
+      "title": "Сезон продолжается",
+      "text": "Заходите за ресурсами и стройками — на сервере уже вовсю кипит жизнь.",
+      "image": "https://picsum.photos/seed/notebuns-season/800/800",
+      "link": "",
+      "date": "2026-08-02",
+      "tag": "Сервер"
+    },
+    {
+      "id": "shop",
+      "kind": "square",
+      "title": "Магазин обновлён",
+      "text": "Новые наборы и привилегии. Покупка проходит прямо в лаунчере.",
+      "image": "https://picsum.photos/seed/notebuns-shop/800/800",
+      "link": "https://notebuns.easydonate.ru/",
+      "date": "2026-08-02",
+      "tag": "Магазин"
+    },
+    {
+      "id": "streams",
+      "kind": "wide",
+      "title": "Стримы ведущих",
+      "text": "Cinaminnie и Meowlody Note выходят в эфир — следите за отметкой в боковом меню.",
+      "image": "https://picsum.photos/seed/notebuns-streams/1200/500",
+      "link": "https://twitch.tv/cinaminnie",
+      "date": "2026-08-02",
+      "tag": "Эфир"
     }
   ],
-  "updated": "2026-08-02T10:18:25Z",
+  "updated": "2026-08-02T15:46:44Z",
   "updated_by": "MilkyDev"
 }
