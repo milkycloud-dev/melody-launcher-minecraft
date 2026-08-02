@@ -1,0 +1,37 @@
+{
+  "_comment": "Надписи и адреса лаунчера. Меняются без пересборки: лаунчер берёт значение отсюда, а при отсутствии ключа — встроенное. Пустая строка тоже означает «встроенное»: пустая кнопка выглядела бы поломкой. В links принимаются только адреса на http(s).",
+  "version": 1,
+  "strings": {
+    "common.close": "Закрыть",
+    "dock.hint.keepOpen": "Не закрывайте лаунчер, пока играете — иначе сервер отключит вас",
+    "dock.hint.needNick": "Введите никнейм",
+    "dock.hint.preparing": "Готовим сборку",
+    "dock.play.idle": "Играть",
+    "dock.play.launched": "В игре",
+    "dock.play.loading": "Загрузка",
+    "maint.off.body": "Идут технические работы, сервер сейчас не принимает игроков. Запускать игру бессмысленно — подключиться не получится.",
+    "maint.off.discord": "Открыть Discord",
+    "maint.off.title": "Сервер недоступен",
+    "maint.off.where": "Подробности и сроки — в Discord сервера.",
+    "maint.tech.accept": "Понимаю, запустить",
+    "maint.tech.body": "Зайти можно, но сервер может вести себя нестабильно: возможны лаги, внезапные перезагрузки и отключения. Прогресс в это время лучше не считать надёжно сохранённым.",
+    "maint.tech.choice": "Если готовы рискнуть — запускайте. Если нет, зайдите позже, когда работы закончатся.",
+    "maint.tech.decline": "Не сейчас",
+    "maint.tech.title": "На сервере идут технические работы",
+    "nav.changelog": "Что нового",
+    "nav.news": "Новости",
+    "nav.rules": "Правила",
+    "nav.settings": "Настройки",
+    "nav.shop": "Магазин",
+    "sidebar.community": "Сообщество",
+    "sidebar.site": "notebuns.inflexus.world",
+    "sidebar.vtubers": "Витуберы"
+  },
+  "links": {
+    "discord": "https://discord.gg/ATrVAemPtA",
+    "site": "https://notebuns.inflexus.world",
+    "telegram": "https://t.me/notebuns_minecraft",
+    "twitch.cinaminnie": "https://twitch.tv/cinaminnie",
+    "twitch.meowlody": "https://twitch.tv/meowlody_note"
+  }
+}
