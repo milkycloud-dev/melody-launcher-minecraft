@@ -24,5 +24,10 @@
     "https://download.inflexus.world/cloud/index_v3.json",
     "https://download.milkycloud.online:2556/cloud/index_v3.json",
     "https://raw.githubusercontent.com/milkycloud-dev/melody-launcher-minecraft/main/cloud/index_v3.json"
+  ],
+  "ui_mirrors": [
+    "https://raw.githubusercontent.com/milkycloud-dev/melody-launcher-minecraft/main/ui.json",
+    "https://download.inflexus.world/ui.json",
+    "https://download.milkycloud.online:2556/ui.json"
   ]
 }
