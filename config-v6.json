@@ -29,6 +29,11 @@
       "https://download.milkycloud.online:2556/cloud/index_v3.json",
       "https://raw.githubusercontent.com/milkycloud-dev/melody-launcher-minecraft/main/cloud/index_v3.json"
     ],
+    "changelog": [
+      "https://raw.githubusercontent.com/milkycloud-dev/melody-launcher-minecraft/main/changelog.json",
+      "https://download.inflexus.world/changelog.json",
+      "https://download.milkycloud.online:2556/changelog.json"
+    ],
     "release": [
       "https://api.github.com/repos/milkycloud-dev/melody-launcher-src/releases/latest",
       "https://raw.githubusercontent.com/milkycloud-dev/melody-launcher-minecraft/main/latest.json",
@@ -62,7 +67,27 @@
     "server.checking": "Проверяем...",
     "common.close": "Закрыть",
     "common.cancel": "Отмена",
-    "common.save": "Сохранить"
+    "common.save": "Сохранить",
+    "host.cinaminnie": "Cinaminnie",
+    "host.meowlody": "Meowlody Note",
+    "nav.news_editor": "Редактор новостей",
+    "news.empty": "Новостей пока нет",
+    "settings.game_dir": "Папка игры",
+    "settings.memory": "Оперативная память",
+    "settings.resolution": "Разрешение окна при запуске",
+    "settings.maintenance": "Обслуживание и Исправление",
+    "settings.reset": "Сброс и переустановка",
+    "settings.extra": "Дополнительно",
+    "settings.fullscreen": "Полноэкранный режим",
+    "settings.crash_reports": "Отправка отчётов о крашах",
+    "settings.cursors": "Курсоры Cinaminnie",
+    "settings.shortcut": "Создать ярлык на рабочем столе",
+    "settings.verify": "Проверить целостность",
+    "settings.change": "Изменить",
+    "settings.saved": "Сохранено ✓",
+    "changelog.error": "Не удалось загрузить список изменений. Проверьте подключение.",
+    "maint.tech.title": "На сервере идут технические работы",
+    "maint.off.title": "Сервер недоступен"
   },
   "notice": {
     "enabled": true,
