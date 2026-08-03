@@ -3,8 +3,8 @@
  "note": "",
  "state": "online",
  "guard": true,
- "players": 0,
+ "players": 1,
  "max": 100,
- "mirrored_at": "2026-08-03T16:40:01Z",
+ "mirrored_at": "2026-08-03T16:45:01Z",
  "source": "milkycloud"
 }
