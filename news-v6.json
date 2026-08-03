@@ -1,8 +1,18 @@
 {
   "version": 6,
-  "updated": "2026-08-03T09:28:15Z",
+  "updated": "2026-08-03T13:22:56Z",
   "updated_by": "MilkyDev",
   "cards": [
+    {
+      "id": "card-msd9cppg",
+      "kind": "square",
+      "title": "Тех. работы с 18:00 до 23:00",
+      "text": "Открытие сервера возможно раньше",
+      "image": "https://www.ideka.ru/images/novosti/2022/texnicheskie-rabotyi.jpg",
+      "link": "https://discord.gg/KZhbk2UeQz",
+      "date": "2026-08-03",
+      "tag": ""
+    },
     {
       "id": "card-msd0zj7t",
       "kind": "square",
