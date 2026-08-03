@@ -1,5 +1,17 @@
 {
   "version": 6,
+  "backdrops": [
+    {
+      "name": "cinaminnie",
+      "image": "https://download.inflexus.world/assets/hosts/cinaminnie.jpg",
+      "position": "right center"
+    },
+    {
+      "name": "meowlody_note",
+      "image": "https://download.inflexus.world/assets/hosts/meowlody_note_background.png",
+      "position": "center"
+    }
+  ],
   "generated": "2026-07-31T00:41:03+02:00",
   "settings": {
     "launcher_bg": "https://download.inflexus.world/assets/launcher_bg.jpg",
@@ -9,6 +21,9 @@
     "server_host": "auth.inflexus.world",
     "server_port": 25565,
     "require_env_telemetry": false,
+    "cursors_setting_visible": true,
+    "cursors_default_on": false,
+    "backdrop_interval": 30,
     "lock_to_server": false
   },
   "endpoints": {
@@ -89,6 +104,10 @@
     "settings.fullscreen": "Полноэкранный режим",
     "settings.crash_reports": "Отправка отчётов о крашах",
     "settings.cursors": "Курсоры cinaminnie",
+    "news.hide": "Скрыть новости",
+    "news.show": "Показать новости",
+    "offline.title": "Нет подключения к интернету",
+    "offline.text": "Лаунчеру нужен интернет: без него не проверить обновления сборки и не получить разрешение на вход.",
     "settings.shortcut": "Создать ярлык на рабочем столе",
     "settings.verify": "Проверить целостность",
     "settings.change": "Изменить",
@@ -103,7 +122,7 @@
     "shop.retry": "Повторить"
   },
   "notice": {
-    "enabled": true,
+    "enabled": false,
     "title": "Регламент и уведомления (Обновлено 30.07.2026)",
     "rules": {
       "title": "Условия и правила поведения",
