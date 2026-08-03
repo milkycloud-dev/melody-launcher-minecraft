@@ -26,6 +26,8 @@
     "backdrop_interval": 30,
     "lock_to_server": false
   },
+  "cursors_setting_visible": false,
+  "cursors_default_on": false,
   "endpoints": {
     "gate": "https://auth.inflexus.world",
     "news_publish": "https://download.milkycloud.online:2556/api/news/publish",
