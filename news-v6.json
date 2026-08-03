@@ -1,47 +1,17 @@
 {
   "version": 6,
-  "updated": "2026-08-02T22:39:59Z",
+  "updated": "2026-08-03T08:36:05Z",
   "updated_by": "MilkyDev",
   "cards": [
     {
-      "id": "welcome",
-      "kind": "wide",
-      "title": "Новый лаунчер NoteBuns",
-      "text": "Обновлённый интерфейс, курсоры в исходном качестве и живой статус сервера прямо на кнопке запуска. АААА",
-      "image": "https://picsum.photos/seed/notebuns-launcher/1200/500",
-      "link": "",
-      "date": "2026-08-02",
-      "tag": "Обновление"
-    },
-    {
-      "id": "season",
+      "id": "card-mscz4n46",
       "kind": "square",
-      "title": "Сезон продолжается",
-      "text": "Заходите за ресурсами и стройками — на сервере уже вовсю кипит жизнь.",
-      "image": "https://picsum.photos/seed/notebuns-season/800/800",
-      "link": "",
-      "date": "2026-08-02",
-      "tag": "Сервер"
-    },
-    {
-      "id": "shop",
-      "kind": "square",
-      "title": "Магазин обновлён",
-      "text": "Новые наборы и привилегии. Покупка проходит прямо в лаунчере.",
-      "image": "https://picsum.photos/seed/notebuns-shop/800/800",
-      "link": "https://notebuns.easydonate.ru/",
-      "date": "2026-08-02",
-      "tag": "Магазин"
-    },
-    {
-      "id": "streams",
-      "kind": "wide",
-      "title": "Стримы ведущих",
-      "text": "Cinaminnie и Meowlody Note выходят в эфир — следите за отметкой в боковом меню.",
-      "image": "https://picsum.photos/seed/notebuns-streams/1200/500",
-      "link": "https://twitch.tv/cinaminnie",
-      "date": "2026-08-02",
-      "tag": "Эфир"
+      "title": "Открытие сервера!",
+      "text": "Дорогие друзья, рады сообщить о запуске Melody Note с Cinaminnie совместного Minecraft сервера!",
+      "image": "https://download.inflexus.world/cloud/news/images/78a59476_photo_2026-07-13_04-04-46.jpg",
+      "link": "https://t.me/meowlody_note/12892",
+      "date": "2026-08-03",
+      "tag": ""
     }
   ]
 }
