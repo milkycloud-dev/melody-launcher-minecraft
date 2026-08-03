@@ -21,7 +21,7 @@
     "server_port": 25565,
     "require_env_telemetry": false,
     "backdrop_interval": 30,
-    "lock_to_server": false
+    "lock_to_server": true
   },
   "endpoints": {
     "gate": "https://auth.inflexus.world",
