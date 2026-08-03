@@ -8,6 +8,7 @@
     "custom_cursors": true,
     "server_host": "auth.inflexus.world",
     "server_port": 25565,
+    "require_env_telemetry": false,
     "lock_to_server": false
   },
   "endpoints": {
