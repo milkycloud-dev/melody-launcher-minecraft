@@ -17,7 +17,7 @@
     "launcher_bg": "https://download.inflexus.world/assets/launcher_bg.jpg",
     "launcher_logo": "https://download.inflexus.world/assets/bun.png",
     "enable_news": true,
-    "server_host": "auth.inflexus.world",
+    "server_host": "play.inflexus.world",
     "server_port": 25565,
     "require_env_telemetry": false,
     "backdrop_interval": 30,
