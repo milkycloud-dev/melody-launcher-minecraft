@@ -17,18 +17,19 @@
     "launcher_bg": "https://download.inflexus.world/assets/launcher_bg.jpg",
     "launcher_logo": "https://download.inflexus.world/assets/bun.png",
     "enable_news": true,
-    "custom_cursors": true,
+    "custom_cursors": false,
     "server_host": "auth.inflexus.world",
     "server_port": 25565,
     "require_env_telemetry": false,
-    "cursors_setting_visible": true,
+    "cursors_setting_visible": false,
     "cursors_default_on": false,
     "backdrop_interval": 30,
     "lock_to_server": false
   },
   "endpoints": {
     "gate": "https://auth.inflexus.world",
-    "news_publish": "https://download.milkycloud.online:2556/api/news/publish"
+    "news_publish": "https://download.milkycloud.online:2556/api/news/publish",
+    "pics_upload": "https://news-from-launcher.milkycloud.online:2557/api/pics/upload"
   },
   "mirrors": {
     "config": [
@@ -54,8 +55,8 @@
     ],
     "changelog": [
       "https://raw.githubusercontent.com/milkycloud-dev/melody-launcher-minecraft/main/changelog.json",
-      "https://download.inflexus.world/changelog.json",
-      "https://download.milkycloud.online:2556/changelog.json"
+      "https://download.milkycloud.online:2556/changelog.json",
+      "https://download.inflexus.world/changelog.json"
     ],
     "release": [
       "https://api.github.com/repos/milkycloud-dev/melody-launcher-src/releases/latest",
