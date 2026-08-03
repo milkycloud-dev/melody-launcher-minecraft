@@ -31,6 +31,12 @@
       "https://download.milkycloud.online:2556/cloud/index_v3.json",
       "https://raw.githubusercontent.com/milkycloud-dev/melody-launcher-minecraft/main/cloud/index_v3.json"
     ],
+    "status": [
+      "https://auth.inflexus.world/api/v1/server",
+      "https://raw.githubusercontent.com/milkycloud-dev/melody-launcher-minecraft/main/server-status.json",
+      "https://download.milkycloud.online:2556/server-status.json",
+      "https://download.inflexus.world/server-status.json"
+    ],
     "changelog": [
       "https://raw.githubusercontent.com/milkycloud-dev/melody-launcher-minecraft/main/changelog.json",
       "https://download.inflexus.world/changelog.json",
