@@ -1,10 +1,8 @@
 {
  "mode": "on",
  "note": "",
- "state": "online",
- "guard": true,
- "players": 0,
- "max": 100,
- "mirrored_at": "2026-08-03T15:40:01Z",
+ "state": "offline",
+ "guard": false,
+ "mirrored_at": "2026-08-03T15:45:01Z",
  "source": "milkycloud"
 }
