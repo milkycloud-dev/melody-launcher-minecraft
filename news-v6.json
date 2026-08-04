@@ -1,21 +1,11 @@
 {
   "version": 6,
-  "updated": "2026-08-03T13:37:28Z",
+  "updated": "2026-08-04T03:48:06Z",
   "updated_by": "MilkyDev",
   "cards": [
     {
-      "id": "card-msd9cppg",
-      "kind": "square",
-      "title": "Тех. работы с 18:00 до 23:00",
-      "text": "Открытие сервера возможно раньше",
-      "image": "https://www.ideka.ru/images/novosti/2022/texnicheskie-rabotyi.jpg",
-      "link": "https://discord.gg/KZhbk2UeQz",
-      "date": "2026-08-03",
-      "tag": ""
-    },
-    {
       "id": "card-msd0zj7t",
-      "kind": "square",
+      "kind": "wide",
       "title": "ОТКРЫТИЕ СЕРВЕРА!",
       "text": "Дорогие друзья, рады сообщить о запуске Melody Note с Cinaminnie совместного Minecraft сервера!",
       "image": "https://download.inflexus.world/cloud/news/images/78a59476_photo_2026-07-13_04-04-46.jpg",
