@@ -1,18 +1,8 @@
 {
   "version": 6,
-  "updated": "2026-08-08T22:17:53Z",
+  "updated": "2026-08-08T22:18:08Z",
   "updated_by": "MilkyDev",
   "cards": [
-    {
-      "id": "card-msd0zj7t",
-      "kind": "square",
-      "title": "ОТКРЫТИЕ СЕРВЕРА!",
-      "text": "Дорогие друзья, рады сообщить о запуске Melody Note с cinaminnie совместного Minecraft сервера!",
-      "image": "https://download.inflexus.world/cloud/news/images/78a59476_photo_2026-07-13_04-04-46.jpg",
-      "link": "https://t.me/meowlody_note/12892",
-      "date": "2026-07-15",
-      "tag": ""
-    },
     {
       "id": "card-msk4r6cm",
       "kind": "square",
@@ -21,6 +11,16 @@
       "image": "https://ru-minecraft.ru/uploads/posts/2020-12/1608317637_2020-12-16_02-2.jpg",
       "link": "https://www.twitch.tv/cinaminnie",
       "date": "2026-08-10",
+      "tag": ""
+    },
+    {
+      "id": "card-msd0zj7t",
+      "kind": "square",
+      "title": "ОТКРЫТИЕ СЕРВЕРА!",
+      "text": "Дорогие друзья, рады сообщить о запуске Melody Note с cinaminnie совместного Minecraft сервера!",
+      "image": "https://download.inflexus.world/cloud/news/images/78a59476_photo_2026-07-13_04-04-46.jpg",
+      "link": "https://t.me/meowlody_note/12892",
+      "date": "2026-07-15",
       "tag": ""
     }
   ]
