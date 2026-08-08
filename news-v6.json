@@ -1,7 +1,7 @@
 {
   "version": 6,
-  "updated": "2026-08-04T04:20:21Z",
-  "updated_by": "MilkyDev",
+  "updated": "2026-08-08T08:52:22Z",
+  "updated_by": "eturnercus",
   "cards": [
     {
       "id": "card-msd0zj7t",
@@ -11,6 +11,16 @@
       "image": "https://download.inflexus.world/cloud/news/images/78a59476_photo_2026-07-13_04-04-46.jpg",
       "link": "https://t.me/meowlody_note/12892",
       "date": "2026-07-15",
+      "tag": ""
+    },
+    {
+      "id": "card-msk4r6cm",
+      "kind": "wide",
+      "title": "Открытие ЭНДА 10 августа в 18.00 на канале cinaminnie !!!",
+      "text": "Открытие ЭНДА 10 августа в 18.00 на канале https://www.twitch.tv/cinaminnie \nПриходите, и участвуйте, в эпичном прохождении!",
+      "image": "",
+      "link": "",
+      "date": "2026-08-10",
       "tag": ""
     }
   ]
