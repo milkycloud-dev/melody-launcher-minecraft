@@ -1,7 +1,7 @@
 {
   "version": 6,
-  "updated": "2026-08-08T22:18:08Z",
-  "updated_by": "MilkyDev",
+  "updated": "2026-08-09T02:28:51Z",
+  "updated_by": "eturnercus",
   "cards": [
     {
       "id": "card-msk4r6cm",
@@ -21,6 +21,16 @@
       "image": "https://download.inflexus.world/cloud/news/images/78a59476_photo_2026-07-13_04-04-46.jpg",
       "link": "https://t.me/meowlody_note/12892",
       "date": "2026-07-15",
+      "tag": ""
+    },
+    {
+      "id": "card-msl6gdpt",
+      "kind": "wide",
+      "title": "Обновление 9 августа уже тут! Включен временно Distant Horizons  до 15.00 МСК!",
+      "text": "Вышло обновление которое добавило на сервер пачку модов на визуал, и разные вещи! Основные моды ниже:\nPolymorph — если у предмета несколько рецептов, можно выбрать нужный.\nVisual Workbench — на верстаке видно, что на нём лежит.\nChunks Fade In — новые чанки появляются с плавным появлением, не резко.\nPresence Footsteps — звуки шагов зависят от блока (трава, камень, дерево…).",
+      "image": "",
+      "link": "",
+      "date": "2026-08-09",
       "tag": ""
     }
   ]
