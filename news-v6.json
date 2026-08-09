@@ -1,6 +1,6 @@
 {
   "version": 6,
-  "updated": "2026-08-09T02:28:51Z",
+  "updated": "2026-08-09T02:43:33Z",
   "updated_by": "eturnercus",
   "cards": [
     {
@@ -14,16 +14,6 @@
       "tag": ""
     },
     {
-      "id": "card-msd0zj7t",
-      "kind": "square",
-      "title": "ОТКРЫТИЕ СЕРВЕРА!",
-      "text": "Дорогие друзья, рады сообщить о запуске Melody Note с cinaminnie совместного Minecraft сервера!",
-      "image": "https://download.inflexus.world/cloud/news/images/78a59476_photo_2026-07-13_04-04-46.jpg",
-      "link": "https://t.me/meowlody_note/12892",
-      "date": "2026-07-15",
-      "tag": ""
-    },
-    {
       "id": "card-msl6gdpt",
       "kind": "wide",
       "title": "Обновление 9 августа уже тут! Включен временно Distant Horizons  до 15.00 МСК!",
@@ -31,6 +21,16 @@
       "image": "",
       "link": "",
       "date": "2026-08-09",
+      "tag": ""
+    },
+    {
+      "id": "card-msd0zj7t",
+      "kind": "square",
+      "title": "ОТКРЫТИЕ СЕРВЕРА!",
+      "text": "Дорогие друзья, рады сообщить о запуске Melody Note с cinaminnie совместного Minecraft сервера!",
+      "image": "https://download.inflexus.world/cloud/news/images/78a59476_photo_2026-07-13_04-04-46.jpg",
+      "link": "https://t.me/meowlody_note/12892",
+      "date": "2026-07-15",
       "tag": ""
     }
   ]
