@@ -26,7 +26,8 @@
   "endpoints": {
     "gate": "https://auth.inflexus.world",
     "news_publish": "https://download.milkycloud.online:2556/api/news/publish",
-    "pics_upload": "https://news-from-launcher.milkycloud.online:2557/api/pics/upload"
+    "pics_upload": "https://news-from-launcher.milkycloud.online:2557/api/pics/upload",
+    "pics_public": "https://download.inflexus.world/cloud/pics_uploads"
   },
   "mirrors": {
     "config": [
