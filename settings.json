@@ -11,22 +11,20 @@
   "_gate_note": "Основание адреса службы разрешений. Пусто или неверный адрес — лаунчер берёт встроенный, поэтому опечатка здесь не запрёт вход. Меняется без выпуска новой версии лаунчера.",
   "gate_base": "https://auth.inflexus.world",
   "settings_mirrors": [
-    "https://download.inflexus.world/milkycloud-dev/melody-launcher-minecraft/main/settings.json",
+    "https://raw.githubusercontent.com/milkycloud-dev/melody-launcher-minecraft/main/settings.json",
     "https://download.inflexus.world/settings.json",
     "https://download.inflexus.world/settings.json"
   ],
   "news_mirrors": [
     "https://download.inflexus.world/cloud/news/news_v3.json",
-    "https://download.inflexus.world/news/news_v3.json",
-    "https://download.inflexus.world/milkycloud-dev/melody-launcher-minecraft/main/cloud/news/news_v3.json"
+    "https://raw.githubusercontent.com/milkycloud-dev/melody-launcher-minecraft/main/cloud/news/news_v3.json"
   ],
   "index_mirrors": [
     "https://download.inflexus.world/cloud/index_v3.json",
-    "https://download.inflexus.world/index_v3.json",
-    "https://download.inflexus.world/milkycloud-dev/melody-launcher-minecraft/main/cloud/index_v3.json"
+    "https://raw.githubusercontent.com/milkycloud-dev/melody-launcher-minecraft/main/cloud/index_v3.json"
   ],
   "ui_mirrors": [
-    "https://download.inflexus.world/milkycloud-dev/melody-launcher-minecraft/main/ui.json",
+    "https://raw.githubusercontent.com/milkycloud-dev/melody-launcher-minecraft/main/ui.json",
     "https://download.inflexus.world/ui.json"
   ]
 }
