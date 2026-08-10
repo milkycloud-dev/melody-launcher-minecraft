@@ -25,8 +25,8 @@
   },
   "endpoints": {
     "gate": "https://auth.inflexus.world",
-    "news_publish": "https://download.inflexus.world/api/news/publish",
-    "pics_upload": "https://download.inflexus.world/api/pics/upload",
+    "news_publish": "https://api.inflexus.world/api/news/publish",
+    "pics_upload": "https://api.inflexus.world/api/pics/upload",
     "pics_public": "https://download.inflexus.world/cloud/pics_uploads"
   },
   "mirrors": {
