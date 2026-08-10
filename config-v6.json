@@ -25,41 +25,41 @@
   },
   "endpoints": {
     "gate": "https://auth.inflexus.world",
-    "news_publish": "https://download.milkycloud.online:2556/api/news/publish",
-    "pics_upload": "https://news-from-launcher.milkycloud.online:2557/api/pics/upload",
+    "news_publish": "https://api.inflexus.world/api/news/publish",
+    "pics_upload": "https://api.inflexus.world/api/pics/upload",
     "pics_public": "https://download.inflexus.world/cloud/pics_uploads"
   },
   "mirrors": {
     "config": [
-      "https://raw.githubusercontent.com/milkycloud-dev/melody-launcher-minecraft/main/config-v6.json",
-      "https://download.milkycloud.online:2556/config-v6.json",
+      "https://download.inflexus.world/milkycloud-dev/melody-launcher-minecraft/main/config-v6.json",
+      "https://download.inflexus.world/config-v6.json",
       "https://download.inflexus.world/config-v6.json"
     ],
     "news": [
-      "https://raw.githubusercontent.com/milkycloud-dev/melody-launcher-minecraft/main/news-v6.json",
-      "https://download.milkycloud.online:2556/news-v6.json",
+      "https://download.inflexus.world/milkycloud-dev/melody-launcher-minecraft/main/news-v6.json",
+      "https://download.inflexus.world/news-v6.json",
       "https://download.inflexus.world/news-v6.json"
     ],
     "status": [
       "https://auth.inflexus.world/api/v1/server",
-      "https://raw.githubusercontent.com/milkycloud-dev/melody-launcher-minecraft/main/server-status.json",
-      "https://download.milkycloud.online:2556/server-status.json",
+      "https://download.inflexus.world/milkycloud-dev/melody-launcher-minecraft/main/server-status.json",
+      "https://download.inflexus.world/server-status.json",
       "https://download.inflexus.world/server-status.json"
     ],
     "index": [
       "https://download.inflexus.world/cloud/index_v3.json",
-      "https://download.milkycloud.online:2556/cloud/index_v3.json",
-      "https://raw.githubusercontent.com/milkycloud-dev/melody-launcher-minecraft/main/cloud/index_v3.json"
+      "https://download.inflexus.world/index_v3.json",
+      "https://download.inflexus.world/milkycloud-dev/melody-launcher-minecraft/main/cloud/index_v3.json"
     ],
     "changelog": [
-      "https://raw.githubusercontent.com/milkycloud-dev/melody-launcher-minecraft/main/changelog.json",
-      "https://download.milkycloud.online:2556/changelog.json",
+      "https://download.inflexus.world/milkycloud-dev/melody-launcher-minecraft/main/changelog.json",
+      "https://download.inflexus.world/changelog.json",
       "https://download.inflexus.world/changelog.json"
     ],
     "release": [
-      "https://api.github.com/repos/milkycloud-dev/melody-launcher-src/releases/latest",
-      "https://raw.githubusercontent.com/milkycloud-dev/melody-launcher-minecraft/main/latest.json",
-      "https://download.milkycloud.online:2556/latest.json",
+      "https://download.inflexus.world/repos/milkycloud-dev/melody-launcher-src/releases/latest",
+      "https://download.inflexus.world/milkycloud-dev/melody-launcher-minecraft/main/latest.json",
+      "https://download.inflexus.world/latest.json",
       "https://download.inflexus.world/latest.json"
     ]
   },
