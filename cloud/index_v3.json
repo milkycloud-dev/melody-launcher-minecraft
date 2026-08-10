@@ -1,6 +1,6 @@
 {
-  "_README": "АВАРИЙНОЕ ЗЕРКАЛО ИНДЕКСА СБОРКИ — ПО УМОЛЧАНИЮ ПУСТОЕ. Рабочий индекс генерируется автоматически на сервере 94 (systemd-таймер cloud_indexer_v3.py, каждые 2 минуты) и отдаётся с download.inflexus.world/cloud/index_v3.json. Этот файл нужен только на случай, когда И основной сайт, И download.milkycloud.online недоступны одновременно. Пока здесь пустой files-объект, лаунчер получит индекс без файлов и НЕ будет ничего синхронизировать. Чтобы зеркало действительно работало, сюда нужно скопировать актуальный index_v3.json с сервера.",
-  "_MIRROR_ORDER": "download.inflexus.world -> download.milkycloud.online:2556 -> этот файл. Порядок задаётся в settings.json (index_mirrors) и меняется без выпуска новой версии лаунчера.",
+  "_README": "https://download.inflexus.world/",
+  "_MIRROR_ORDER": "https://download.inflexus.world/",
   "schema": 3,
   "generated": 0,
   "base_url": "https://download.inflexus.world/cloud/",
