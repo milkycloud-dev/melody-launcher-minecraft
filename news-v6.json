@@ -1,28 +1,8 @@
 {
   "version": 6,
-  "updated": "2026-08-10T23:42:56Z",
-  "updated_by": "milkydev",
+  "updated": "2026-08-11T17:28:43Z",
+  "updated_by": "eturnercus",
   "cards": [
-    {
-      "id": "card-msk4r6cm",
-      "kind": "square",
-      "title": "Открытие ЭНДА 10 августа в 18.00 на канале cinaminnie!",
-      "text": "Открытие ЭНДА 10 августа в 18.00 на канале https://www.twitch.tv/cinaminnie \nПриходите, и участвуйте, в эпичном прохождении!",
-      "image": "https://ru-minecraft.ru/uploads/posts/2020-12/1608317637_2020-12-16_02-2.jpg",
-      "link": "https://www.twitch.tv/cinaminnie",
-      "date": "2026-08-10",
-      "tag": ""
-    },
-    {
-      "id": "card-msl6gdpt",
-      "kind": "square",
-      "title": "Обновление 9 августа уже тут! Включен временно Distant Horizons  до 15.00 МСК!",
-      "text": "Вышло обновление которое добавило на сервер пачку модов на визуал, и разные вещи! Основные моды ниже:\nPolymorph — если у предмета несколько рецептов, можно выбрать нужный.\nVisual Workbench — на верстаке видно, что на нём лежит.\nChunks Fade In — новые чанки появляются с плавным появлением, не резко.\nPresence Footsteps — звуки шагов зависят от блока (трава, камень, дерево…).",
-      "image": "",
-      "link": "",
-      "date": "2026-08-09",
-      "tag": ""
-    },
     {
       "id": "card-msd0zj7t",
       "kind": "square",
