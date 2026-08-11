@@ -1,27 +1,5 @@
 [
  {
-  "id": "card-msk4r6cm",
-  "type": "card",
-  "title": "Открытие ЭНДА 10 августа в 18.00 на канале cinaminnie!",
-  "description": "Открытие ЭНДА 10 августа в 18.00 на канале https://www.twitch.tv/cinaminnie \nПриходите, и участвуйте, в эпичном прохождении!",
-  "image": "https://ru-minecraft.ru/uploads/posts/2020-12/1608317637_2020-12-16_02-2.jpg",
-  "link": "https://www.twitch.tv/cinaminnie",
-  "span": "2x2",
-  "date": "2026-08-10",
-  "slides": []
- },
- {
-  "id": "card-msl6gdpt",
-  "type": "card",
-  "title": "Обновление 9 августа уже тут! Включен временно Distant Horizons  до 15.00 МСК!",
-  "description": "Вышло обновление которое добавило на сервер пачку модов на визуал, и разные вещи! Основные моды ниже:\nPolymorph — если у предмета несколько рецептов, можно выбрать нужный.\nVisual Workbench — на верстаке видно, что на нём лежит.\nChunks Fade In — новые чанки появляются с плавным появлением, не резко.\nPresence Footsteps — звуки шагов зависят от блока (трава, камень, дерево…).",
-  "image": "",
-  "link": "",
-  "span": "2x2",
-  "date": "2026-08-09",
-  "slides": []
- },
- {
   "id": "card-msd0zj7t",
   "type": "card",
   "title": "ОТКРЫТИЕ СЕРВЕРА!",
