@@ -1,7 +1,7 @@
 {
   "version": 6,
-  "updated": "2026-08-11T17:28:43Z",
-  "updated_by": "eturnercus",
+  "updated": "2026-08-13T09:02:43Z",
+  "updated_by": "MilkyDev",
   "cards": [
     {
       "id": "card-msd0zj7t",
@@ -11,6 +11,16 @@
       "image": "https://download.inflexus.world/cloud/news/images/78a59476_photo_2026-07-13_04-04-46.jpg",
       "link": "https://t.me/meowlody_note/12892",
       "date": "2026-07-15",
+      "tag": ""
+    },
+    {
+      "id": "card-msrablkb",
+      "kind": "square",
+      "title": "Тех. работы 13.08",
+      "text": "Ориентировочно до 20:00. Играть можно во время них по своему усмотрению",
+      "image": "https://i.ibb.co/gLPCyHQ0/miguel-angel-padrinan-alba-JVSKN4-Tgx-E0-unsplash-1.jpg",
+      "link": "",
+      "date": "2026-08-13",
       "tag": ""
     }
   ]
