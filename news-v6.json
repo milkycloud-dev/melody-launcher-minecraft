@@ -1,8 +1,18 @@
 {
   "version": 6,
-  "updated": "2026-08-13T09:27:50Z",
+  "updated": "2026-08-14T09:28:22Z",
   "updated_by": "MilkyDev",
   "cards": [
+    {
+      "id": "card-msrablkb",
+      "kind": "square",
+      "title": "Расширение миров до 10500х10500",
+      "text": "Все миры были расширены почти в 3 раза. Новый простор для приключений!",
+      "image": "https://media.discordapp.net/attachments/1528018506602512456/1530645222625906892/image_2026-07-23_00-03-10.png?ex=6a800933&is=6a7eb7b3&hm=8bf838f0e4222af6ba22e119e98b47df8e716e35bd497fadfc4561ab470fd8f9&=&format=webp&quality=lossless",
+      "link": "",
+      "date": "2026-08-13",
+      "tag": "Обновление"
+    },
     {
       "id": "card-msd0zj7t",
       "kind": "square",
@@ -11,16 +21,6 @@
       "image": "https://download.inflexus.world/cloud/news/images/78a59476_photo_2026-07-13_04-04-46.jpg",
       "link": "https://t.me/meowlody_note/12892",
       "date": "2026-07-15",
-      "tag": ""
-    },
-    {
-      "id": "card-msrablkb",
-      "kind": "square",
-      "title": "Тех. работы 13.08 весь день. Следите за статусом",
-      "text": "Зайти можно, но сервер может вести себя нестабильно: возможны лаги, внезапные перезагрузки и отключения.",
-      "image": "https://i.ibb.co/gLPCyHQ0/miguel-angel-padrinan-alba-JVSKN4-Tgx-E0-unsplash-1.jpg",
-      "link": "",
-      "date": "2026-08-13",
       "tag": ""
     }
   ]
