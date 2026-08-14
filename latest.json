@@ -1,49 +1,49 @@
 {
-  "tag_name": "v6.0.2",
+  "tag_name": "v6.0.4",
   "assets": [
     {
-      "name": "NoteBuns-Installer-macOS-aarch64-apple-darwin-v6.0.2.dmg",
-      "browser_download_url": "https://github.com/milkycloud-dev/melody-launcher-src/releases/download/v6.0.2/NoteBuns-Installer-macOS-aarch64-apple-darwin-v6.0.2.dmg"
+      "name": "NoteBuns-Installer-macOS-aarch64-apple-darwin-v6.0.4.dmg",
+      "browser_download_url": "https://github.com/milkycloud-dev/melody-launcher-src/releases/download/v6.0.4/NoteBuns-Installer-macOS-aarch64-apple-darwin-v6.0.4.dmg"
     },
     {
-      "name": "NoteBuns-Installer-macOS-x86_64-apple-darwin-v6.0.2.dmg",
-      "browser_download_url": "https://github.com/milkycloud-dev/melody-launcher-src/releases/download/v6.0.2/NoteBuns-Installer-macOS-x86_64-apple-darwin-v6.0.2.dmg"
+      "name": "NoteBuns-Installer-macOS-x86_64-apple-darwin-v6.0.4.dmg",
+      "browser_download_url": "https://github.com/milkycloud-dev/melody-launcher-src/releases/download/v6.0.4/NoteBuns-Installer-macOS-x86_64-apple-darwin-v6.0.4.dmg"
     },
     {
-      "name": "NoteBuns-Portable-macOS-aarch64-apple-darwin-v6.0.2.zip",
-      "browser_download_url": "https://github.com/milkycloud-dev/melody-launcher-src/releases/download/v6.0.2/NoteBuns-Portable-macOS-aarch64-apple-darwin-v6.0.2.zip"
+      "name": "NoteBuns-Portable-macOS-aarch64-apple-darwin-v6.0.4.zip",
+      "browser_download_url": "https://github.com/milkycloud-dev/melody-launcher-src/releases/download/v6.0.4/NoteBuns-Portable-macOS-aarch64-apple-darwin-v6.0.4.zip"
     },
     {
-      "name": "NoteBuns-Portable-macOS-aarch64-apple-darwin-v6.0.2.zip.sha256",
-      "browser_download_url": "https://github.com/milkycloud-dev/melody-launcher-src/releases/download/v6.0.2/NoteBuns-Portable-macOS-aarch64-apple-darwin-v6.0.2.zip.sha256"
+      "name": "NoteBuns-Portable-macOS-aarch64-apple-darwin-v6.0.4.zip.sha256",
+      "browser_download_url": "https://github.com/milkycloud-dev/melody-launcher-src/releases/download/v6.0.4/NoteBuns-Portable-macOS-aarch64-apple-darwin-v6.0.4.zip.sha256"
     },
     {
-      "name": "NoteBuns-Portable-macOS-x86_64-apple-darwin-v6.0.2.zip",
-      "browser_download_url": "https://github.com/milkycloud-dev/melody-launcher-src/releases/download/v6.0.2/NoteBuns-Portable-macOS-x86_64-apple-darwin-v6.0.2.zip"
+      "name": "NoteBuns-Portable-macOS-x86_64-apple-darwin-v6.0.4.zip",
+      "browser_download_url": "https://github.com/milkycloud-dev/melody-launcher-src/releases/download/v6.0.4/NoteBuns-Portable-macOS-x86_64-apple-darwin-v6.0.4.zip"
     },
     {
-      "name": "NoteBuns-Portable-macOS-x86_64-apple-darwin-v6.0.2.zip.sha256",
-      "browser_download_url": "https://github.com/milkycloud-dev/melody-launcher-src/releases/download/v6.0.2/NoteBuns-Portable-macOS-x86_64-apple-darwin-v6.0.2.zip.sha256"
+      "name": "NoteBuns-Portable-macOS-x86_64-apple-darwin-v6.0.4.zip.sha256",
+      "browser_download_url": "https://github.com/milkycloud-dev/melody-launcher-src/releases/download/v6.0.4/NoteBuns-Portable-macOS-x86_64-apple-darwin-v6.0.4.zip.sha256"
     },
     {
-      "name": "NoteBuns-Portable-v6.0.2.exe",
-      "browser_download_url": "https://github.com/milkycloud-dev/melody-launcher-src/releases/download/v6.0.2/NoteBuns-Portable-v6.0.2.exe"
+      "name": "NoteBuns-Portable-v6.0.4.exe",
+      "browser_download_url": "https://github.com/milkycloud-dev/melody-launcher-src/releases/download/v6.0.4/NoteBuns-Portable-v6.0.4.exe"
     },
     {
-      "name": "NoteBuns-Portable-v6.0.2.exe.sha256",
-      "browser_download_url": "https://github.com/milkycloud-dev/melody-launcher-src/releases/download/v6.0.2/NoteBuns-Portable-v6.0.2.exe.sha256"
+      "name": "NoteBuns-Portable-v6.0.4.exe.sha256",
+      "browser_download_url": "https://github.com/milkycloud-dev/melody-launcher-src/releases/download/v6.0.4/NoteBuns-Portable-v6.0.4.exe.sha256"
     },
     {
-      "name": "NoteBuns_6.0.2_aarch64.dmg",
-      "browser_download_url": "https://github.com/milkycloud-dev/melody-launcher-src/releases/download/v6.0.2/NoteBuns_6.0.2_aarch64.dmg"
+      "name": "NoteBuns_6.0.4_aarch64.dmg",
+      "browser_download_url": "https://github.com/milkycloud-dev/melody-launcher-src/releases/download/v6.0.4/NoteBuns_6.0.4_aarch64.dmg"
     },
     {
-      "name": "NoteBuns_6.0.2_amd64.AppImage",
-      "browser_download_url": "https://github.com/milkycloud-dev/melody-launcher-src/releases/download/v6.0.2/NoteBuns_6.0.2_amd64.AppImage"
+      "name": "NoteBuns_6.0.4_amd64.AppImage",
+      "browser_download_url": "https://github.com/milkycloud-dev/melody-launcher-src/releases/download/v6.0.4/NoteBuns_6.0.4_amd64.AppImage"
     },
     {
       "name": "NoteBuns_aarch64.app.tar.gz",
-      "browser_download_url": "https://github.com/milkycloud-dev/melody-launcher-src/releases/download/v6.0.2/NoteBuns_aarch64.app.tar.gz"
+      "browser_download_url": "https://github.com/milkycloud-dev/melody-launcher-src/releases/download/v6.0.4/NoteBuns_aarch64.app.tar.gz"
     }
   ]
 }
