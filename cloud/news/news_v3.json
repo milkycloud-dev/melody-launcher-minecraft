@@ -1,5 +1,16 @@
 [
  {
+  "id": "card-mthrh5qa",
+  "type": "card",
+  "title": "Тех. работы в ночь с 31 августа на 1 сентября",
+  "description": "В ночь с 31 августа на 1 сентября сервер будет отключен до 11:00 МСК.\nБольшинство модов будет обновлено, будьте аккуратны.\nО проблемах пишите завтра после открытия на нашем Discord-сервере: NoteBuns Minecraft",
+  "image": "https://download.inflexus.world/cloud/pics_uploads/ded0ce4f9d8bdc8f93c6b419.jpg",
+  "link": "",
+  "span": "2x2",
+  "date": "2026-08-31",
+  "slides": []
+ },
+ {
   "id": "card-msrablkb",
   "type": "card",
   "title": "Расширение миров до 10500х10500",
