@@ -1,18 +1,8 @@
 {
   "version": 6,
-  "updated": "2026-08-31T21:40:55Z",
+  "updated": "2026-09-01T21:39:37Z",
   "updated_by": "eturnercus",
   "cards": [
-    {
-      "id": "card-mthrh5qa",
-      "kind": "wide",
-      "title": "Тех. работы в ночь с 31 августа на 1 сентября",
-      "text": "В ночь с 31 августа на 1 сентября сервер будет отключен до 11:00 МСК.\nБольшинство модов будет обновлено, будьте аккуратны.\nО проблемах пишите завтра после открытия на нашем Discord-сервере: NoteBuns Minecraft",
-      "image": "https://download.inflexus.world/cloud/pics_uploads/ded0ce4f9d8bdc8f93c6b419.jpg",
-      "link": "",
-      "date": "2026-08-31",
-      "tag": ""
-    },
     {
       "id": "card-msrablkb",
       "kind": "square",
