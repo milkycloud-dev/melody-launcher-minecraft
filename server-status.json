@@ -1,7 +1,7 @@
 {
- "mode": "off",
+ "mode": "on",
  "note": "",
- "state": "online",
+ "state": "tech",
  "guard": true,
  "players": 0,
  "max": 100,
