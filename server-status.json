@@ -1,10 +1,10 @@
 {
- "mode": "on",
- "note": "",
- "state": "tech",
- "guard": true,
- "players": 0,
- "max": 100,
- "mirrored_at": "2026-08-10T23:35:01Z",
- "source": "game"
+  "mode": "off",
+  "note": "Игровой сервер временно недоступен. Объявлены технические работы. Следите за статусом в Discord.",
+  "state": "offline",
+  "guard": false,
+  "players": 0,
+  "max": 100,
+  "mirrored_at": "2026-09-03T20:05:00Z",
+  "source": "github"
 }
