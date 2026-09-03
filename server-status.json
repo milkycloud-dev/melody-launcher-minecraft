@@ -1,9 +1,9 @@
 {
- "mode": "on",
+ "mode": "off",
  "note": "",
  "state": "online",
  "guard": true,
- "players": 6,
+ "players": 0,
  "max": 100,
  "mirrored_at": "2026-08-10T23:35:01Z",
  "source": "game"
