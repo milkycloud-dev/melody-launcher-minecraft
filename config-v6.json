@@ -1,150 +1,150 @@
 {
-  "version": 6,
-  "backdrops": [
-    {
-      "name": "cinaminnie",
-      "image": "https://download.inflexus.world/assets/hosts/cinaminnie.jpg",
-      "position": "right center"
+    "version": 6,
+    "backdrops": [
+        {
+            "name": "cinaminnie",
+            "image": "https://download.inflexus.world/assets/hosts/cinaminnie.jpg",
+            "position": "right center"
+        },
+        {
+            "name": "meowlody_note",
+            "image": "https://download.inflexus.world/assets/hosts/meowlody_note_background.png",
+            "position": "center"
+        }
+    ],
+    "generated": "2026-07-31T00:41:03+02:00",
+    "settings": {
+        "launcher_bg": "https://download.inflexus.world/assets/launcher_bg.jpg",
+        "launcher_logo": "https://download.inflexus.world/assets/bun.png",
+        "enable_news": true,
+        "server_host": "play.inflexus.world",
+        "server_port": 0,
+        "require_env_telemetry": false,
+        "backdrop_interval": 30,
+        "lock_to_server": true
     },
-    {
-      "name": "meowlody_note",
-      "image": "https://download.inflexus.world/assets/hosts/meowlody_note_background.png",
-      "position": "center"
+    "endpoints": {
+        "gate": "https://auth.inflexus.world",
+        "news_publish": "https://api.inflexus.world/api/news/publish",
+        "pics_upload": "https://api.inflexus.world/api/pics/upload",
+        "pics_public": "https://download.inflexus.world/cloud/pics_uploads"
+    },
+    "mirrors": {
+        "config": [
+            "https://raw.githubusercontent.com/milkycloud-dev/melody-launcher-minecraft/main/config-v6.json",
+            "https://download.inflexus.world/config-v6.json",
+            "https://download.inflexus.world/config-v6.json"
+        ],
+        "news": [
+            "https://raw.githubusercontent.com/milkycloud-dev/melody-launcher-minecraft/main/news-v6.json",
+            "https://download.inflexus.world/news-v6.json",
+            "https://download.inflexus.world/news-v6.json"
+        ],
+        "status": [
+            "https://auth.inflexus.world/api/v1/server",
+            "https://raw.githubusercontent.com/milkycloud-dev/melody-launcher-minecraft/main/server-status.json",
+            "https://download.inflexus.world/server-status.json",
+            "https://download.inflexus.world/server-status.json"
+        ],
+        "index": [
+            "https://download.inflexus.world/cloud/index_v3.json",
+            "https://raw.githubusercontent.com/milkycloud-dev/melody-launcher-minecraft/main/cloud/index_v3.json"
+        ],
+        "changelog": [
+            "https://raw.githubusercontent.com/milkycloud-dev/melody-launcher-minecraft/main/changelog.json",
+            "https://download.inflexus.world/changelog.json",
+            "https://download.inflexus.world/changelog.json"
+        ],
+        "release": [
+            "https://api.github.com/repos/milkycloud-dev/melody-launcher-src/releases/latest",
+            "https://raw.githubusercontent.com/milkycloud-dev/melody-launcher-minecraft/main/latest.json",
+            "https://download.inflexus.world/latest.json",
+            "https://download.inflexus.world/latest.json"
+        ]
+    },
+    "links": {
+        "shop": "https://notebuns.inflexus.world/store",
+        "discord": "https://discord.gg/KZhbk2UeQz",
+        "telegram": "https://t.me/notebuns_minecraft",
+        "site": "https://notebuns.inflexus.world",
+        "bugreport": "https://discord.gg/ATrVAemPtA"
+    },
+    "ui": {
+        "nav.news": "Новости",
+        "nav.shop": "Магазин",
+        "nav.rules": "Правила",
+        "nav.changelog": "Что нового",
+        "nav.news_editor": "Редактор",
+        "nav.settings": "Настройки",
+        "dock.play": "Играть",
+        "dock.loading": "Загрузка",
+        "dock.launched": "В игре",
+        "dock.nick_placeholder": "Никнейм",
+        "dock.keep_launcher": "Не закрывайте лаунчер, пока играете — иначе сервер отключит вас",
+        "sidebar.vtubers": "Витуберы",
+        "sidebar.community": "Сообщество",
+        "server.online": "В сети",
+        "server.maintenance": "Тех. работы",
+        "server.offline": "Недоступен",
+        "server.checking": "Проверяем...",
+        "common.close": "Закрыть",
+        "common.cancel": "Отмена",
+        "common.save": "Сохранить",
+        "host.cinaminnie": "cinaminnie",
+        "host.meowlody": "meowlody_note",
+        "news.empty": "Новостей пока нет",
+        "settings.game_dir": "Папка игры",
+        "settings.memory": "Оперативная память",
+        "settings.resolution": "Разрешение окна при запуске",
+        "settings.maintenance": "Обслуживание и Исправление",
+        "settings.reset": "Сброс и переустановка",
+        "settings.extra": "Дополнительно",
+        "settings.fullscreen": "Полноэкранный режим",
+        "settings.crash_reports": "Отправка отчётов о крашах",
+        "news.hide": "Скрыть новости",
+        "news.show": "Показать новости",
+        "offline.title": "Нет подключения к интернету",
+        "offline.text": "Лаунчеру нужен интернет: без него не проверить обновления сборки и не получить разрешение на вход.",
+        "settings.shortcut": "Создать ярлык на рабочем столе",
+        "settings.verify": "Проверить целостность",
+        "settings.change": "Изменить",
+        "settings.saved": "Сохранено ✓",
+        "changelog.error": "Не удалось загрузить список изменений. Проверьте подключение.",
+        "maint.tech.title": "На сервере идут технические работы",
+        "maint.off.title": "Сервер недоступен",
+        "shop.reload": "Обновить",
+        "shop.external": "Открыть в браузере",
+        "shop.loading": "Магазин временно недоступен...",
+        "shop.failed": "Магазин временно недоступен. Ведутся технические работы.",
+        "shop.retry": "Повторить"
+    },
+    "notice": {
+        "enabled": true,
+        "title": "Регламент и уведомления (Обновлено 30.07.2026)",
+        "rules": {
+            "title": "Условия и правила поведения",
+            "subtitle": "На сервере запрещено:",
+            "items": [
+                "• Использование сторонних лаунчеров (в том числе чит-клиентов) для доступа к серверу.",
+                "• Гриферство в любом виде, а также создание механизмов, намеренно снижающих производительность сервера.",
+                "• Использование любых игровых багов и уязвимостей для получения преимущества.",
+                "• Любые проявления токсичного и вредоносного поведения в текстовых и голосовых чатах.",
+                "⚠️ Администрация в лице cinaminnie, Melody Note, разработчиков и модераторов оставляет за собой право ограничить доступ к серверу в любой момент без объяснения причин.",
+                "⚠️ Выданные наказания разъяснению или обжалованию не подлежат."
+            ]
+        },
+        "privacy": {
+            "title": "Политика конфиденциальности и защита данных",
+            "paragraphs": [
+                "• Для защиты игрового сообщества лаунчер NoteBuns собирает базовую техническую информацию об устройстве (включая IP-адрес) и привязывает её к вашему игровому аккаунту.",
+                "• Эти данные необходимы для защиты лаунчера от взлома, предотвращения повторного входа нарушителей и корректной работы античита.",
+                "• Оператором данных выступает частное лицо. Обработка и хранение осуществляются в соответствии с требованиями GDPR (Общего регламента по защите данных ЕС).",
+                "• Исходный код лаунчера NoteBuns предоставляется по запросу к разработчикам в Discord. Неавторизованная модификация, декомпиляция или распространение сторонних сборок лаунчера может преследоваться по закону вашей юрисдикции."
+            ]
+        },
+        "support": {
+            "text": "В случае возникновения проблем или ошибок, пожалуйста, обращайтесь на официальный Discord-сервер лаунчера NoteBuns:",
+            "url": "https://discord.gg/ATrVAemPtA"
+        }
     }
-  ],
-  "generated": "2026-07-31T00:41:03+02:00",
-  "settings": {
-    "launcher_bg": "https://download.inflexus.world/assets/launcher_bg.jpg",
-    "launcher_logo": "https://download.inflexus.world/assets/bun.png",
-    "enable_news": true,
-    "server_host": "play.inflexus.world",
-    "server_port": 25565,
-    "require_env_telemetry": false,
-    "backdrop_interval": 30,
-    "lock_to_server": true
-  },
-  "endpoints": {
-    "gate": "https://auth.inflexus.world",
-    "news_publish": "https://api.inflexus.world/api/news/publish",
-    "pics_upload": "https://api.inflexus.world/api/pics/upload",
-    "pics_public": "https://download.inflexus.world/cloud/pics_uploads"
-  },
-  "mirrors": {
-    "config": [
-      "https://raw.githubusercontent.com/milkycloud-dev/melody-launcher-minecraft/main/config-v6.json",
-      "https://download.inflexus.world/config-v6.json",
-      "https://download.inflexus.world/config-v6.json"
-    ],
-    "news": [
-      "https://raw.githubusercontent.com/milkycloud-dev/melody-launcher-minecraft/main/news-v6.json",
-      "https://download.inflexus.world/news-v6.json",
-      "https://download.inflexus.world/news-v6.json"
-    ],
-    "status": [
-      "https://auth.inflexus.world/api/v1/server",
-      "https://raw.githubusercontent.com/milkycloud-dev/melody-launcher-minecraft/main/server-status.json",
-      "https://download.inflexus.world/server-status.json",
-      "https://download.inflexus.world/server-status.json"
-    ],
-    "index": [
-      "https://download.inflexus.world/cloud/index_v3.json",
-      "https://raw.githubusercontent.com/milkycloud-dev/melody-launcher-minecraft/main/cloud/index_v3.json"
-    ],
-    "changelog": [
-      "https://raw.githubusercontent.com/milkycloud-dev/melody-launcher-minecraft/main/changelog.json",
-      "https://download.inflexus.world/changelog.json",
-      "https://download.inflexus.world/changelog.json"
-    ],
-    "release": [
-      "https://api.github.com/repos/milkycloud-dev/melody-launcher-src/releases/latest",
-      "https://raw.githubusercontent.com/milkycloud-dev/melody-launcher-minecraft/main/latest.json",
-      "https://download.inflexus.world/latest.json",
-      "https://download.inflexus.world/latest.json"
-    ]
-  },
-  "links": {
-    "shop": "https://notebuns.easydonate.ru/",
-    "discord": "https://discord.gg/KZhbk2UeQz",
-    "telegram": "https://t.me/notebuns_minecraft",
-    "site": "https://notebuns.inflexus.world",
-    "bugreport": "https://discord.gg/ATrVAemPtA"
-  },
-  "ui": {
-    "nav.news": "Новости",
-    "nav.shop": "Магазин",
-    "nav.rules": "Правила",
-    "nav.changelog": "Что нового",
-    "nav.news_editor": "Редактор",
-    "nav.settings": "Настройки",
-    "dock.play": "Играть",
-    "dock.loading": "Загрузка",
-    "dock.launched": "В игре",
-    "dock.nick_placeholder": "Никнейм",
-    "dock.keep_launcher": "Не закрывайте лаунчер, пока играете — иначе сервер отключит вас",
-    "sidebar.vtubers": "Втуберы",
-    "sidebar.community": "Сообщество",
-    "server.online": "В сети",
-    "server.maintenance": "Тех. работы",
-    "server.offline": "Недоступен",
-    "server.checking": "Проверяем...",
-    "common.close": "Закрыть",
-    "common.cancel": "Отмена",
-    "common.save": "Сохранить",
-    "host.cinaminnie": "cinaminnie",
-    "host.meowlody": "meowlody_note",
-    "news.empty": "Новостей пока нет",
-    "settings.game_dir": "Папка игры",
-    "settings.memory": "Оперативная память",
-    "settings.resolution": "Разрешение окна при запуске",
-    "settings.maintenance": "Обслуживание и Исправление",
-    "settings.reset": "Сброс и переустановка",
-    "settings.extra": "Дополнительно",
-    "settings.fullscreen": "Полноэкранный режим",
-    "settings.crash_reports": "Отправка отчётов о крашах",
-    "news.hide": "Скрыть новости",
-    "news.show": "Показать новости",
-    "offline.title": "Нет подключения к интернету",
-    "offline.text": "Лаунчеру нужен интернет: без него не проверить обновления сборки и не получить разрешение на вход.",
-    "settings.shortcut": "Создать ярлык на рабочем столе",
-    "settings.verify": "Проверить целостность",
-    "settings.change": "Изменить",
-    "settings.saved": "Сохранено ✓",
-    "changelog.error": "Не удалось загрузить список изменений. Проверьте подключение.",
-    "maint.tech.title": "На сервере идут технические работы",
-    "maint.off.title": "Сервер недоступен",
-    "shop.reload": "Обновить",
-    "shop.external": "Открыть в браузере",
-    "shop.loading": "Загружаем магазин...",
-    "shop.failed": "Магазин не открылся. Попробуйте обновить или открыть в браузере.",
-    "shop.retry": "Повторить"
-  },
-  "notice": {
-    "enabled": true,
-    "title": "Регламент и уведомления (Обновлено 30.07.2026)",
-    "rules": {
-      "title": "Условия и правила поведения",
-      "subtitle": "На сервере запрещено:",
-      "items": [
-        "• Использование сторонних лаунчеров (в том числе чит-клиентов) для доступа к серверу.",
-        "• Гриферство в любом виде, а также создание механизмов, намеренно снижающих производительность сервера.",
-        "• Использование любых игровых багов и уязвимостей для получения преимущества.",
-        "• Любые проявления токсичного и вредоносного поведения в текстовых и голосовых чатах.",
-        "⚠️ Администрация в лице cinaminnie, Melody Note, разработчиков и модераторов оставляет за собой право ограничить доступ к серверу в любой момент без объяснения причин.",
-        "⚠️ Выданные наказания разъяснению или обжалованию не подлежат."
-      ]
-    },
-    "privacy": {
-      "title": "Политика конфиденциальности и защита данных",
-      "paragraphs": [
-        "• Для защиты игрового сообщества лаунчер NoteBuns собирает базовую техническую информацию об устройстве (включая IP-адрес) и привязывает её к вашему игровому аккаунту.",
-        "• Эти данные необходимы для защиты лаунчера от взлома, предотвращения повторного входа нарушителей и корректной работы античита.",
-        "• Оператором данных выступает частное лицо. Обработка и хранение осуществляются в соответствии с требованиями GDPR (Общего регламента по защите данных ЕС).",
-        "• Исходный код лаунчера NoteBuns предоставляется по запросу к разработчикам в Discord. Неавторизованная модификация, декомпиляция или распространение сторонних сборок лаунчера может преследоваться по закону вашей юрисдикции."
-      ]
-    },
-    "support": {
-      "text": "В случае возникновения проблем или ошибок, пожалуйста, обращайтесь на официальный Discord-сервер лаунчера NoteBuns:",
-      "url": "https://discord.gg/ATrVAemPtA"
-    }
-  }
 }
