@@ -8,7 +8,7 @@
     "launcher_logo": "https://download.inflexus.world/assets/bun.png",
     "java_args": "-Xmx{RAM}m -Xms256m -Dfile.encoding=UTF-8",
     "server_host": "play.inflexus.world",
-    "server_port": 25567,
+    "server_port": 25597,
     "backdrop_interval": 30,
     "jvm_ipv4": "auto"
   },
