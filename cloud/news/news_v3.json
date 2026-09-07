@@ -1,5 +1,16 @@
 [
  {
+  "id": "card-mtr9ff5q",
+  "type": "card",
+  "title": "Таблицы лидеров",
+  "description": "На сервере заработал детальный подсчёт активности. /playtime - твоё личное время, счётчик убийств и точное место в обоих рейтингах. Подробнее в Discord!",
+  "image": "https://i.ibb.co/XfNYz35F/some-screenshots-from-my-world-with-my-friends-v0-zw4pyuzfa6j81.jpg",
+  "link": "https://discord.gg/KZhbk2UeQz",
+  "span": "2x2",
+  "date": "2026-09-07",
+  "slides": []
+ },
+ {
   "id": "card-msrablkb",
   "type": "card",
   "title": "Расширение миров до 10500х10500",
@@ -18,7 +29,18 @@
   "image": "https://download.inflexus.world/assets/2.png",
   "link": "https://discord.gg/KZhbk2UeQz",
   "span": "2x2",
-  "date": "2026-09-07",
+  "date": "2026-07-20",
+  "slides": []
+ },
+ {
+  "id": "card-mtr9iwej",
+  "type": "card",
+  "title": "Открытие сервера!",
+  "description": "Дорогие друзья, рады сообщить о запуске Melody Note с cinaminnie совместного Minecraft сервера!",
+  "image": "https://i.ibb.co/7J3WNf3k/photo-2026-09-07-16-11-21.jpg",
+  "link": "https://t.me/meowlody_note/12892",
+  "span": "2x2",
+  "date": "2026-07-15",
   "slides": []
  }
 ]
