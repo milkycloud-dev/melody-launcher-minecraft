@@ -1,14 +1,24 @@
 {
   "version": 6,
-  "updated": "2026-09-07T13:21:05Z",
+  "updated": "2026-09-07T17:46:15Z",
   "updated_by": "MilkyDev",
   "cards": [
+    {
+      "id": "card-mtrj2lwl",
+      "kind": "square",
+      "title": "Аннотация об обновлении Create и Create: Aeronautics",
+      "text": "Чтобы избавить сервер от просадок TPS и сделать игру плавной для всех участников, мы провели масштабное обновление Create и смежных аддонов. Все механики приведены с сбалансированным лимитам. Подробнее об изменениях можно узнать в дискорде в канале \"Новости\" -> Аннотация об оптимизации Create и стабилизации TPS.",
+      "image": "https://download.inflexus.world/cloud/pics_uploads/2aad8e761cd89962e3a0c321.png",
+      "link": "",
+      "date": "2026-09-07",
+      "tag": ""
+    },
     {
       "id": "card-mtr9ff5q",
       "kind": "square",
       "title": "Таблицы лидеров",
       "text": "На сервере заработал детальный подсчёт активности. /playtime - твоё личное время, счётчик убийств и точное место в обоих рейтингах. Подробнее в Discord!",
-      "image": "https://i.ibb.co/XfNYz35F/some-screenshots-from-my-world-with-my-friends-v0-zw4pyuzfa6j81.jpg",
+      "image": "https://download.inflexus.world/cloud/pics_uploads/fc7674b3fcea419ec1be7620.jpg",
       "link": "https://discord.gg/KZhbk2UeQz",
       "date": "2026-09-07",
       "tag": ""
@@ -38,7 +48,7 @@
       "kind": "square",
       "title": "Открытие сервера!",
       "text": "Дорогие друзья, рады сообщить о запуске Melody Note с cinaminnie совместного Minecraft сервера!",
-      "image": "https://i.ibb.co/7J3WNf3k/photo-2026-09-07-16-11-21.jpg",
+      "image": "https://download.inflexus.world/cloud/pics_uploads/2e9aff976ccd04b4d6622f00.jpg",
       "link": "https://t.me/meowlody_note/12892",
       "date": "2026-07-15",
       "tag": ""
