@@ -1,18 +1,8 @@
 {
   "version": 6,
-  "updated": "2026-09-07T01:45:19Z",
+  "updated": "2026-09-07T01:45:36Z",
   "updated_by": "MilkyDev",
   "cards": [
-    {
-      "id": "card-msrablkb",
-      "kind": "square",
-      "title": "Расширение миров до 10500х10500",
-      "text": "Все миры были расширены почти в 3 раза. Новый простор для приключений!!",
-      "image": "https://media.discordapp.net/attachments/1528018506602512456/1530645222625906892/image_2026-07-23_00-03-10.png?ex=6a800933&is=6a7eb7b3&hm=8bf838f0e4222af6ba22e119e98b47df8e716e35bd497fadfc4561ab470fd8f9&=&format=webp&quality=lossless",
-      "link": "",
-      "date": "2026-08-14",
-      "tag": "Обновление"
-    },
     {
       "id": "card-msd0zj7t",
       "kind": "square",
@@ -22,6 +12,16 @@
       "link": "https://discord.gg/KZhbk2UeQz",
       "date": "2026-07-10",
       "tag": "Важное"
+    },
+    {
+      "id": "card-msrablkb",
+      "kind": "square",
+      "title": "Расширение миров до 10500х10500",
+      "text": "Все миры были расширены почти в 3 раза. Новый простор для приключений!!",
+      "image": "https://media.discordapp.net/attachments/1528018506602512456/1530645222625906892/image_2026-07-23_00-03-10.png?ex=6a800933&is=6a7eb7b3&hm=8bf838f0e4222af6ba22e119e98b47df8e716e35bd497fadfc4561ab470fd8f9&=&format=webp&quality=lossless",
+      "link": "",
+      "date": "2026-08-14",
+      "tag": "Обновление"
     }
   ]
 }
