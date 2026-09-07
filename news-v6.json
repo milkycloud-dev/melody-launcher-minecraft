@@ -1,8 +1,18 @@
 {
   "version": 6,
-  "updated": "2026-09-07T01:55:23Z",
+  "updated": "2026-09-07T13:21:05Z",
   "updated_by": "MilkyDev",
   "cards": [
+    {
+      "id": "card-mtr9ff5q",
+      "kind": "square",
+      "title": "Таблицы лидеров",
+      "text": "На сервере заработал детальный подсчёт активности. /playtime - твоё личное время, счётчик убийств и точное место в обоих рейтингах. Подробнее в Discord!",
+      "image": "https://i.ibb.co/XfNYz35F/some-screenshots-from-my-world-with-my-friends-v0-zw4pyuzfa6j81.jpg",
+      "link": "https://discord.gg/KZhbk2UeQz",
+      "date": "2026-09-07",
+      "tag": ""
+    },
     {
       "id": "card-msrablkb",
       "kind": "square",
@@ -20,7 +30,17 @@
       "text": "Дорогие друзья, самые последние новости вы найдёте в дискорде проекта. Нажмите сюда для присоединения!",
       "image": "https://download.inflexus.world/assets/2.png",
       "link": "https://discord.gg/KZhbk2UeQz",
-      "date": "2026-09-07",
+      "date": "2026-07-20",
+      "tag": ""
+    },
+    {
+      "id": "card-mtr9iwej",
+      "kind": "square",
+      "title": "Открытие сервера!",
+      "text": "Дорогие друзья, рады сообщить о запуске Melody Note с cinaminnie совместного Minecraft сервера!",
+      "image": "https://i.ibb.co/7J3WNf3k/photo-2026-09-07-16-11-21.jpg",
+      "link": "https://t.me/meowlody_note/12892",
+      "date": "2026-07-15",
       "tag": ""
     }
   ]
