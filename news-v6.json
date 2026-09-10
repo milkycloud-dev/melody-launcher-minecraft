@@ -1,17 +1,8 @@
 {
   "version": 6,
-  "updated": "2026-09-07T18:34:11Z",
+  "updated": "2026-09-10T22:24:32Z",
+  "updated_by": "MilkyDev",
   "cards": [
-    {
-      "id": "card-mtrj2lwl",
-      "kind": "square",
-      "title": "Аннотация об обновлении Create и Create: Aeronautics",
-      "text": "Чтобы избавить сервер от просадок TPS и сделать игру плавной для всех участников, мы провели масштабное обновление Create и смежных аддонов. Все механики приведены с сбалансированным лимитам. Подробнее об изменениях можно узнать в дискорде в канале \"Новости\" -> Аннотация об оптимизации Create и стабилизации TPS.",
-      "image": "https://download.inflexus.world/cloud/pics_uploads/2aad8e761cd89962e3a0c321.png",
-      "link": "",
-      "date": "2026-09-07",
-      "tag": ""
-    },
     {
       "id": "card-mtr9ff5q",
       "kind": "square",
@@ -52,6 +43,5 @@
       "date": "2026-07-15",
       "tag": ""
     }
-  ],
-  "updated_by": "dc:panel-check"
+  ]
 }
