@@ -1,5 +1,16 @@
 [
  {
+  "id": "card-muahemom",
+  "type": "card",
+  "title": "Обновление серверной сборки",
+  "description": "Обновлены 28 модов до новейших версий.\nОптимизации - стало больше FPS, почищен мусор. \nЗапуск игры стал быстрее вдвое. \nУбраны назойливые счетчики FPS в левом верхнем углу",
+  "image": "https://download.inflexus.world/cloud/pics_uploads/b13ac76cbe01cf30457bb40f.png",
+  "link": "",
+  "span": "2x2",
+  "date": "2026-09-21",
+  "slides": []
+ },
+ {
   "id": "card-mtr9ff5q",
   "type": "card",
   "title": "Таблицы лидеров",
