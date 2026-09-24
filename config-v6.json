@@ -48,7 +48,8 @@
         ],
         "index": [
             "https://download.inflexus.world/cloud/index_v3.json",
-            "https://raw.githubusercontent.com/milkycloud-dev/melody-launcher-minecraft/main/cloud/index_v3.json"
+            "https://raw.githubusercontent.com/milkycloud-dev/melody-launcher-minecraft/main/cloud/index_v3.json",
+            "https://raw.githubusercontent.com/milkycloud-dev/notebuns-cdn-mirror/main/index_v3.json"
         ],
         "changelog": [
             "https://raw.githubusercontent.com/milkycloud-dev/melody-launcher-minecraft/main/changelog.json",
