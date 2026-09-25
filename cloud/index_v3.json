@@ -1,9 +1,9 @@
 {
  "schema": 3,
- "generated": 1790294401,
+ "generated": 1790302201,
  "launcher_version": "3.0.0",
  "minecraft_version": "1.21.1",
- "base_url": "https://raw.githubusercontent.com/milkycloud-dev/notebuns-cdn-mirror/1b64b5951caf87cea3d7c1f2b0c02539a09a2c33/cloud/",
+ "base_url": "https://raw.githubusercontent.com/milkycloud-dev/notebuns-cdn-mirror/46e3fc3f1ab327d006b4442a776203ab250d187c/cloud/",
  "managed_dirs": [
   "mods",
   "config",
@@ -13,6 +13,19 @@
  ],
  "managed_files": [
   "options.txt",
+  "resourcepacks/Aimz - Tiny Crosshair(1).zip",
+  "resourcepacks/Anime Music 3.0.zip",
+  "resourcepacks/Jirai Kei [1 GUI].zip",
+  "resourcepacks/Jirai Kei [1 HUD].zip",
+  "resourcepacks/Jirai Kei [Armor 1] Wing.zip",
+  "resourcepacks/Jirai Kei [Armor 2] My Melody.zip",
+  "resourcepacks/Jirai Kei [EXP 1] Pink and Black.zip",
+  "resourcepacks/Jirai Kei [EXP 2] Black and White.zip",
+  "resourcepacks/Jirai Kei [Food 1] Strawberry.zip",
+  "resourcepacks/Misa_1.21c.zip",
+  "resourcepacks/UniqueDark 1.20.2-1.21.x (free).zip",
+  "resourcepacks/heartcrosshair.zip",
+  "resourcepacks/krest.zip",
   "servers.dat"
  ],
  "user_owned": [
@@ -1941,11 +1954,11 @@
  },
  "news_url": "https://download.inflexus.world/cloud/news/news_v3.json",
  "_mirror": {
-  "note": "Запасной индекс. Основной лежит в download.inflexus.world/cloud/index_v3.json, сюда лаунчер приходит, только если тот не ответил. Генерируется автоматически (Relay 146, gh_mirror_sync.py), руками не править.",
+  "note": "Запасной индекс. Рабочий — download.inflexus.world/cloud/index_v3.json; сюда лаунчер приходит, только если тот не ответил. Генерируется автоматически (Relay 146, gh_mirror_sync.py) — руками не править.",
   "source": "https://download.inflexus.world/cloud/index_v3.json",
-  "source_generated": 1790294401,
+  "source_generated": 1790302201,
   "mirror": "https://github.com/milkycloud-dev/notebuns-cdn-mirror",
-  "commit": "1b64b5951caf87cea3d7c1f2b0c02539a09a2c33",
-  "synced_at": "2026-09-25T00:03:52Z"
+  "commit": "46e3fc3f1ab327d006b4442a776203ab250d187c",
+  "synced_at": "2026-09-25T02:13:52Z"
  }
 }
