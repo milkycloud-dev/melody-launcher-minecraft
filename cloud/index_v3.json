@@ -1,9 +1,9 @@
 {
  "schema": 3,
- "generated": 1790302201,
+ "generated": 1790392201,
  "launcher_version": "3.0.0",
  "minecraft_version": "1.21.1",
- "base_url": "https://raw.githubusercontent.com/milkycloud-dev/notebuns-cdn-mirror/46e3fc3f1ab327d006b4442a776203ab250d187c/cloud/",
+ "base_url": "https://raw.githubusercontent.com/milkycloud-dev/notebuns-cdn-mirror/b4648c0279974464c8e10df697c176e3c3b32ca9/cloud/",
  "managed_dirs": [
   "mods",
   "config",
@@ -1665,9 +1665,9 @@
    "sha256": "d13f2d4dd2b8c2ca4a65a5a163fc043d5e3e341f15b2fc906cb256dc8e2e4bb5",
    "size": 151039
   },
-  "mods/notebuns-menu-1.4.5.jar": {
-   "sha256": "7fc1b22aa300c62d9bacbdbbc909216e0a9a258764f5709a4dcd460f3b851d3c",
-   "size": 45781
+  "mods/notebuns-menu-1.4.6.jar": {
+   "sha256": "8156cbe6cb99e6948886a605e71550d486dfaed5162c8152fce6df2933327c44",
+   "size": 48446
   },
   "mods/notenoughanimations-neoforge-1.12.4-mc1.21.1.jar": {
    "sha256": "a8705202193813de291195ad6bbd03101c4ddc1ab2878aadb018ab92f903999f",
@@ -1956,9 +1956,9 @@
  "_mirror": {
   "note": "Запасной индекс. Рабочий — download.inflexus.world/cloud/index_v3.json; сюда лаунчер приходит, только если тот не ответил. Генерируется автоматически (Relay 146, gh_mirror_sync.py) — руками не править.",
   "source": "https://download.inflexus.world/cloud/index_v3.json",
-  "source_generated": 1790302201,
+  "source_generated": 1790392201,
   "mirror": "https://github.com/milkycloud-dev/notebuns-cdn-mirror",
-  "commit": "46e3fc3f1ab327d006b4442a776203ab250d187c",
-  "synced_at": "2026-09-25T02:13:52Z"
+  "commit": "b4648c0279974464c8e10df697c176e3c3b32ca9",
+  "synced_at": "2026-09-26T03:13:17Z"
  }
 }
