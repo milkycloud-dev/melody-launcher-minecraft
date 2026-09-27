@@ -1,7 +1,7 @@
 {
  "schema": "notebuns.live.v2",
- "revision": 6,
- "generated": "2026-09-27T00:10:39Z",
+ "revision": 7,
+ "generated": "2026-09-27T00:51:02Z",
  "settings": {
   "enable_news": true,
   "launcher_bg": "https://download.inflexus.world/assets/launcher_bg.jpg",
@@ -374,7 +374,8 @@
   "shared_ip_threshold": 3,
   "verify_max_nicks": 1,
   "verify_spam_sec": 5,
-  "verify_token_ttl": 900
+  "verify_token_ttl": 900,
+  "min_launcher_version": "7.0.0"
  },
  "banner": {
   "enabled": false,
