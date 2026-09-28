@@ -1,8 +1,18 @@
 {
   "version": 6,
-  "updated": "2026-09-21T00:05:05Z",
+  "updated": "2026-09-28T13:38:19Z",
   "updated_by": "MilkyDev",
   "cards": [
+    {
+      "id": "card-mulagndk",
+      "kind": "square",
+      "title": "Глобальное обновление v7.0",
+      "text": "Покоряйте парящий The Aether, космос в Ad Astra, мрачный The Undergarden, Otherside и залы Dimensional Dungeons! В игре теперь полноценная RPG: 5 классов со спеллами, комбо Better Combat и ревайв. А ещё подняли FPS, заменили WTHIT на Jade и встроили топ в лаунчер. Подробный список изменений и файлов - читайте в Discord!",
+      "image": "https://download.inflexus.world/cloud/pics_uploads/de738744ff21ccc00055da70.png",
+      "link": "",
+      "date": "2026-09-28",
+      "tag": ""
+    },
     {
       "id": "card-muahemom",
       "kind": "square",
