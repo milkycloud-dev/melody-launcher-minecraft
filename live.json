@@ -1,7 +1,7 @@
 {
  "schema": "notebuns.live.v2",
- "revision": 7,
- "generated": "2026-09-27T00:51:02Z",
+ "revision": 8,
+ "generated": "2026-09-28T15:53:41Z",
  "settings": {
   "enable_news": true,
   "launcher_bg": "https://download.inflexus.world/assets/launcher_bg.jpg",
@@ -55,7 +55,7 @@
   ]
  },
  "links": {
-  "shop": "https://notebuns.inflexus.world/store",
+  "shop": "https://melody.easydonate.ru/",
   "discord": "https://discord.gg/KZhbk2UeQz",
   "telegram": "https://t.me/notebuns_minecraft",
   "site": "https://notebuns.inflexus.world",
@@ -718,7 +718,7 @@
   "settings.verify": "Проверить целостность",
   "shop.anchor": "#shop",
   "shop.external": "Открыть в браузере",
-  "shop.failed": "Магазин временно недоступен. Ведутся технические работы.",
+  "shop.failed": "Магазин не открылся. Попробуйте обновить или открыть в браузере.",
   "shop.loading": "Загружаем магазин...",
   "shop.reload": "Обновить",
   "shop.retry": "Повторить",
