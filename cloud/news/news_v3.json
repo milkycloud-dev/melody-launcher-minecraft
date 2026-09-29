@@ -1,11 +1,11 @@
 [
  {
-  "id": "card-mulz1qp0",
+  "id": "card-mumseycq",
   "type": "card",
-  "title": "Магазин снова работает",
-  "description": "Нажмите, чтобы перейти к ассортименту. Магазин дополняется",
-  "image": "https://download.inflexus.world/cloud/pics_uploads/285e7dde912ef0ce6085f93e.jpg",
-  "link": "https://notebuns-mc.easydonate.ru/",
+  "title": "Конкурс на 2000р! Космическая гонка!",
+  "description": "Первый игрок, который доберётся до планеты Глаcио побеждает. Спонсоры:\nMelody_Note и команда разработчиков\n\nСроки и условия победы:\nДедлайн до воскресенья включительно\nЕсли к концу ни один игрок не ступит на поверхность Глаcио, всю награду получит тот, кто продвинулся ближе всего к цели\nКоорды месторождения нефти: 9269 63 10447",
+  "image": "https://download.inflexus.world/cloud/pics_uploads/59fb3bfa7a52105a6d3c09e3.png",
+  "link": "",
   "span": "2x2",
   "date": "2026-09-29",
   "slides": []
@@ -17,6 +17,17 @@
   "description": "Покоряйте парящий The Aether, космос в Ad Astra, мрачный The Undergarden, Otherside и залы Dimensional Dungeons! В игре теперь полноценная RPG: 5 классов со спеллами, комбо Better Combat и ревайв. А ещё подняли FPS, заменили WTHIT на Jade и встроили топ в лаунчер. Подробный список изменений и файлов - читайте в Discord!",
   "image": "https://download.inflexus.world/cloud/pics_uploads/de738744ff21ccc00055da70.png",
   "link": "",
+  "span": "2x2",
+  "date": "2026-09-28",
+  "slides": []
+ },
+ {
+  "id": "card-mulz1qp0",
+  "type": "card",
+  "title": "Магазин снова работает",
+  "description": "Нажмите, чтобы перейти к ассортименту. Магазин дополняется",
+  "image": "https://download.inflexus.world/cloud/pics_uploads/285e7dde912ef0ce6085f93e.jpg",
+  "link": "https://notebuns-mc.easydonate.ru/",
   "span": "2x2",
   "date": "2026-09-28",
   "slides": []
