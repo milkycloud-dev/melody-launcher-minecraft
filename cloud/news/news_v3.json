@@ -1,5 +1,16 @@
 [
  {
+  "id": "card-mulz1qp0",
+  "type": "card",
+  "title": "Магазин снова работает",
+  "description": "Нажмите чтобы перейти к ассортименту",
+  "image": "https://download.inflexus.world/cloud/pics_uploads/db1fbdd2eb30aca0831a213d.jpg",
+  "link": "https://notebuns-mc.easydonate.ru/",
+  "span": "2x2",
+  "date": "2026-09-29",
+  "slides": []
+ },
+ {
   "id": "card-mulagndk",
   "type": "card",
   "title": "Глобальное обновление v7.0",
