@@ -1,14 +1,14 @@
 {
   "version": 6,
-  "updated": "2026-09-29T01:05:14Z",
-  "updated_by": "3895E3DD",
+  "updated": "2026-09-29T01:38:31Z",
+  "updated_by": "AsyaEdem",
   "cards": [
     {
       "id": "card-mulz1qp0",
       "kind": "square",
       "title": "Магазин снова работает",
-      "text": "Нажмите чтобы перейти к ассортименту",
-      "image": "https://download.inflexus.world/cloud/pics_uploads/db1fbdd2eb30aca0831a213d.jpg",
+      "text": "Нажмите, чтобы перейти к ассортименту. Магазин дополняется",
+      "image": "https://download.inflexus.world/cloud/pics_uploads/285e7dde912ef0ce6085f93e.jpg",
       "link": "https://notebuns-mc.easydonate.ru/",
       "date": "2026-09-29",
       "tag": ""
