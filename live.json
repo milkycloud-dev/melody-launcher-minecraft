@@ -1,6 +1,6 @@
 {
  "schema": "notebuns.live.v2",
- "revision": 10,
+ "revision": 11,
  "generated": "2026-09-29T01:43:08Z",
  "settings": {
   "enable_news": true,
@@ -302,20 +302,8 @@
  },
  "java": {
   "dir_name": "jre-21",
-  "version_line": "openjdk version \"21.0.12.1\" 2026-08-18 LTS",
-  "runtime_marker": "Temurin-21.0.12.1+1",
-  "windows": {
-   "file": "java/OpenJDK21U-jre_x64_windows_hotspot_21.0.12.1_1.zip",
-   "sha256": "d35f31e712f0fcf6ac5a093edc90204fbff22f720ba3950bd09d331d5e621636"
-  },
-  "linux": {
-   "file": "java/OpenJDK21U-jre_x64_linux_hotspot_21.0.12.1_1.tar.gz",
-   "sha256": "2413149700df0f7d440500a84a8f764c535f21e5a5e87d38328b64eec2c5b500"
-  },
-  "macos": {
-   "file": "java/OpenJDK21U-jre_x64_mac_hotspot_21.0.12.1_1.tar.gz",
-   "sha256": "6717ec641fd9ce0bb209ca083ee23b42202ac68cb6fcc5753496e0e4a0f41989"
-  }
+  "version_line": "openjdk version \"21.0.11\" 2026-04-21 LTS",
+  "runtime_marker": "Temurin-21.0.11+10"
  },
  "sync": {
   "parallel": 8,
@@ -555,7 +543,7 @@
   "error.java_download": "Не удалось загрузить Java",
   "error.java_missing": "Не удалось найти бинарник Java после распаковки",
   "error.java_unpack": "Ошибка распаковки Java: {error}",
-  "error.java_version": "Java установлена, но вывод `java -version` не совпал с ожидаемым (Temurin-21.0.12.1+1)",
+  "error.java_version": "Java установлена, но вывод `java -version` не совпал с ожидаемым (Temurin-21.0.11+10)",
   "error.libraries": "Ошибка докачки библиотек: {error}",
   "error.maintenance": "Сервер сейчас закрыт на обслуживание. Подождите пару минут и попробуйте снова.",
   "error.migrate": "Ошибка миграции v2 на v3: {error}",
@@ -598,7 +586,7 @@
   "launch.index": "Получение дерева файлов сервера...",
   "launch.index_cached": "Сервер сборки недоступен, запуск по проверенной копии...",
   "launch.java_check": "Проверка Java (Temurin 21)...",
-  "launch.java_download": "Загрузка Java (Temurin 21)...",
+  "launch.java_download": "Загрузка Java (Temurin 21.0.11)...",
   "launch.java_unpack": "Распаковка Java...",
   "launch.libraries": "Проверка ванильных библиотек...",
   "launch.migrate": "Миграция клиента v2 на v3...",
