@@ -1,8 +1,28 @@
 {
   "version": 6,
-  "updated": "2026-10-01T05:28:03Z",
-  "updated_by": "dc:milky_eu",
+  "updated": "2026-10-09T21:08:04Z",
+  "updated_by": "MilkyDev",
   "cards": [
+    {
+      "id": "card-mv1gftpo",
+      "kind": "square",
+      "title": "Серверное обновление",
+      "text": "Возможность эвакуироваться с планет раз в сутки, если вы там нокнулись (не касается луны).\nТотем для срабатывания теперь держать в руке необязательно.\nМелкие исправления других найденных багов.\n\nСкриншотик от AsyaEdem",
+      "image": "",
+      "link": "",
+      "date": "2026-10-09",
+      "tag": ""
+    },
+    {
+      "id": "card-mv1g9z0v",
+      "kind": "square",
+      "title": "Итоги челенджа",
+      "text": "Победили: rachelnotonix и xandrasin.\nВторое место: hozuk1.\n\nПобедители уже получили свои призы. Благодарим всех за участие!",
+      "image": "https://download.inflexus.world/cloud/pics_uploads/101f2cdb8baa7b47d1d22266.png",
+      "link": "",
+      "date": "2026-10-09",
+      "tag": ""
+    },
     {
       "id": "card-mumseycq",
       "kind": "square",
@@ -11,7 +31,7 @@
       "image": "https://download.inflexus.world/cloud/pics_uploads/59fb3bfa7a52105a6d3c09e3.png",
       "link": "",
       "date": "2026-09-29",
-      "tag": "Важно"
+      "tag": ""
     },
     {
       "id": "card-mulagndk",

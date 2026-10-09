@@ -1,5 +1,27 @@
 [
  {
+  "id": "card-mv1gftpo",
+  "type": "card",
+  "title": "Серверное обновление",
+  "description": "Возможность эвакуироваться с планет раз в сутки, если вы там нокнулись (не касается луны).\nТотем для срабатывания теперь держать в руке необязательно.\nМелкие исправления других найденных багов.\n\nСкриншотик от AsyaEdem",
+  "image": "",
+  "link": "",
+  "span": "2x2",
+  "date": "2026-10-09",
+  "slides": []
+ },
+ {
+  "id": "card-mv1g9z0v",
+  "type": "card",
+  "title": "Итоги челенджа",
+  "description": "Победили: rachelnotonix и xandrasin.\nВторое место: hozuk1.\n\nПобедители уже получили свои призы. Благодарим всех за участие!",
+  "image": "https://download.inflexus.world/cloud/pics_uploads/101f2cdb8baa7b47d1d22266.png",
+  "link": "",
+  "span": "2x2",
+  "date": "2026-10-09",
+  "slides": []
+ },
+ {
   "id": "card-mumseycq",
   "type": "card",
   "title": "Конкурс на 2000р! Космическая гонка!",
