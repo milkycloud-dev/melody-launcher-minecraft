@@ -1,14 +1,14 @@
 {
   "version": 6,
-  "updated": "2026-10-09T21:08:04Z",
-  "updated_by": "MilkyDev",
+  "updated": "2026-10-09T21:10:12Z",
+  "updated_by": "dc:milky_eu",
   "cards": [
     {
       "id": "card-mv1gftpo",
       "kind": "square",
       "title": "Серверное обновление",
       "text": "Возможность эвакуироваться с планет раз в сутки, если вы там нокнулись (не касается луны).\nТотем для срабатывания теперь держать в руке необязательно.\nМелкие исправления других найденных багов.\n\nСкриншотик от AsyaEdem",
-      "image": "",
+      "image": "https://download.inflexus.world/cloud/pics_uploads/15d18dc85abd19a70ac9a1d2.jpg",
       "link": "",
       "date": "2026-10-09",
       "tag": ""
