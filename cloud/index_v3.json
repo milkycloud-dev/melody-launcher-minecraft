@@ -1,9 +1,9 @@
 {
  "schema": 3,
- "generated": 1791795253,
+ "generated": 1792461481,
  "launcher_version": "3.0.0",
  "minecraft_version": "1.21.1",
- "base_url": "https://raw.githubusercontent.com/milkycloud-dev/notebuns-cdn-mirror/ded008762bf2acaa6726f02b97b4c74208c81737/cloud/",
+ "base_url": "https://raw.githubusercontent.com/milkycloud-dev/notebuns-cdn-mirror/83060f5d282913952d94912b22fe939d3a06d0e3/cloud/",
  "managed_dirs": [
   "mods",
   "config",
@@ -1285,13 +1285,13 @@
    "sha256": "cc525fb6b030d9e4d33176983f278919e17b33935e2ca568929bdfa98f2b44a0",
    "size": 77555
   },
-  "mods/CreativeCore_NEOFORGE_v2.13.46_mc1.21.1.jar": {
-   "sha256": "3fe2144fc608978203681f5c787dd75034879baf135372cc2302d6218ea75932",
-   "size": 1235813
+  "mods/CreativeCore_NEOFORGE_v2.13.51_mc1.21.1.jar": {
+   "sha256": "911b612783b00d9ebef63a700d1fb96d700915991f71063a047796465ce7be84",
+   "size": 1236490
   },
-  "mods/Drip Sounds-0.5.2+1.21.8-NeoForge.jar": {
-   "sha256": "b5d831c16a54ffefa4022f2d56f174a8508e334cfb3b31f91b318deaa9f8c180",
-   "size": 58457
+  "mods/Drip_Sounds-0.6.3+1.21.8-NeoForge.jar": {
+   "sha256": "d5ad3eceefda8791fc02041614164c5b639c6fae199926711cd41e7dc9838f12",
+   "size": 54991
   },
   "mods/Emojiful-Neoforge-1.21-5.2.4-all.jar": {
    "sha256": "5a09713874ceccc50f433c26a50b6a44af8a4d01dd93ee1616f3d6fc32e7bf37",
@@ -1309,9 +1309,9 @@
    "sha256": "0d620c975619b04110b94a73d5b42d252563ff59c1eae9d21ab2ee7e38460a3c",
    "size": 213853
   },
-  "mods/ImmediatelyFast-NeoForge-1.6.14+1.21.1.jar": {
-   "sha256": "15bf9bd6d8e3ae8ad35c5a4d90680424b534d9762d698c0a466965afcab5dd78",
-   "size": 365195
+  "mods/ImmediatelyFast-NeoForge-1.6.15+1.21.1.jar": {
+   "sha256": "7d7b1d7b9f71d5303e42b2fa45f222a5ab06e0ef5982abb6da5dd9cc449b3702",
+   "size": 368896
   },
   "mods/Incendium_1.21.x_v5.4.4.jar": {
    "sha256": "285a4f69fe2391f2175f7fc9316d727a39c79bdd214923c59284d569bce656f4",
@@ -1321,9 +1321,9 @@
    "sha256": "e84329e06d40346a88b3eda5985500ded34efad2ad30c43f1dd3a486eff58d1b",
    "size": 87005
   },
-  "mods/ItemPhysicLite_NEOFORGE_v1.6.11_mc1.21.1.jar": {
-   "sha256": "f6ed887d2e0a43eeb4617080f7617e368614beaa2ae80f7532a05d1b8c3da3d7",
-   "size": 20181
+  "mods/ItemPhysicLite_NEOFORGE_v1.6.13_mc1.21.1.jar": {
+   "sha256": "6c062b12319daf72d156623b36b6acf4a9e0c999884b9301c7e2ffabd8d6b847",
+   "size": 20187
   },
   "mods/Jade-1.21.1-NeoForge-15.10.6.jar": {
    "sha256": "276f1f65a20d04f536989c4f311949d770b52c440c23c2b904a08860f3c93810",
@@ -1389,9 +1389,9 @@
    "sha256": "43bf78569341397ac67901029bf199aa98cd11db70373bccfc87975b4a9c53bb",
    "size": 538832
   },
-  "mods/amendments-1.21-2.1.10-neoforge.jar": {
-   "sha256": "a2cbc46342c5f466f3b6e244f8820aa01f9d8381586b2c008b72fb77ae56045e",
-   "size": 1168211
+  "mods/amendments-1.21-2.1.11-neoforge.jar": {
+   "sha256": "7bc18ef0554ab305c4af7d1bdb60b0a45edec2a5d9aabf307dd7b26cf2ad2447",
+   "size": 1175215
   },
   "mods/anvianslib-neoforge-1.21-1.4.2.jar": {
    "sha256": "7bc8e8204699c08870ae022e7a7356ee872adf4e0a56d29d5be82ea3f22922b7",
@@ -1401,9 +1401,9 @@
    "sha256": "38b48dd6231341c9f964ce6e42c57ec866c6cc8f72bec938390a59bafb3922df",
    "size": 75804
   },
-  "mods/archers-neoforge-3.1.1+1.21.1.jar": {
-   "sha256": "e49a164fa54eae3a14ff93afd4ed7fd5b0e043532985c6608f5b17d1fcbbbac7",
-   "size": 902745
+  "mods/archers-neoforge-3.1.3+1.21.1.jar": {
+   "sha256": "907952e612fb58d816594738569a1bf7ce544a03e6e877572f7b319293757712",
+   "size": 903289
   },
   "mods/architectury-13.0.11-neoforge.jar": {
    "sha256": "9cc92f2c09533fc5482c60f993bd891c655a0e32b637037cdcb7c2b23adedeeb",
@@ -1429,8 +1429,8 @@
    "sha256": "6e97bf8c2a66df484e8c100a1fc1b615b8beac70ec44f4c3bc07bb672dcd54c6",
    "size": 54641
   },
-  "mods/balm-neoforge-1.21.1-21.0.65.jar": {
-   "sha256": "490fa5fcb7ca83a9b5a84e33c2832298db99d189131001b9277a1de7fdc0bf91",
+  "mods/balm-neoforge-1.21.1-21.0.66.jar": {
+   "sha256": "6be660e1f6d169553bf44f66d4f78bb9e96a1d66ce108d9608819e3ce6bfba34",
    "size": 783793
   },
   "mods/bclib-21.0.26.jar": {
@@ -1469,17 +1469,17 @@
    "sha256": "02e10437ceeed34e14e0efe206204658e4b8aa8ee7df10f2a9e28ac20f1b0391",
    "size": 91948
   },
-  "mods/chatanimation-neoforge-1.3.3+mc1.21.jar": {
-   "sha256": "fd9fd67b82930701d0a82221bdb8c91a5993bfb4e141c00b500c1fd6bca7af44",
-   "size": 1066941
+  "mods/chatanimation-neoforge-1.3.5+mc1.21.jar": {
+   "sha256": "94cdd57cdd4d64d60b51e31eb80d9f56e1fe841e21bb75e7f67d76fb5694694a",
+   "size": 1068711
   },
   "mods/citadel-1.21.1-2.7.6.jar": {
    "sha256": "9e12468c49e5a95b7adbf22b3b4d05bc55565989b89c40b985cd73bdfe63c3c2",
    "size": 3028943
   },
-  "mods/clientsort-neoforge-3.89.1+1.21.1.jar": {
-   "sha256": "7febc07ee2c185afc38e450db8be1935c6c88a056cbe48fe37efcb10752d64f0",
-   "size": 353094
+  "mods/clientsort-neoforge-3.89.2+1.21.1.jar": {
+   "sha256": "de14d1671e25b5446b7a9cd17f3693202ddb78351675d166e2723cbeef7c27e7",
+   "size": 353091
   },
   "mods/cloth-config-15.0.140-neoforge.jar": {
    "sha256": "65e722e0d98431a07c45f8bdd8d529a217cc8c175fde1740248bd5c1b4f3c0d4",
@@ -1525,9 +1525,9 @@
    "sha256": "81cdcbfcf450e6fe8b87e44c5dd2df0be5003d574ad78f431fa12ff75622008d",
    "size": 2819269
   },
-  "mods/dungeon_difficulty-neoforge-3.8.0+1.21.1.jar": {
-   "sha256": "27ec328894caab377cc07c9cb28fffc45868e2da1a7d4020a5a9407f30c5173a",
-   "size": 170359
+  "mods/dungeon_difficulty-neoforge-3.9.2+1.21.1.jar": {
+   "sha256": "7c62ae42a0eb2fa8cffe35ac718796a004cf7ae1d04e4ba12feec3c2c2c36ba3",
+   "size": 223237
   },
   "mods/dungeons+-1.10.1.jar": {
    "sha256": "1e7ebd22684e490e0d9add4d1b6af120537d4230edd06b0dca480a2ac53efd9b",
@@ -1545,17 +1545,17 @@
    "sha256": "8cff63e900acd55bb39d41978cc2a70a974e326e2038c30ff20ccfde4c953a43",
    "size": 861829
   },
-  "mods/entityculling-neoforge-1.10.5-mc1.21.1.jar": {
-   "sha256": "2eacd2bada39bf1d1ef695736646790c619c0e6cdeaf3d7e3cfc9139d26fae02",
-   "size": 1585287
+  "mods/entityculling-neoforge-1.11.3-mc1.21.1.jar": {
+   "sha256": "fa73ac70a3766568203b730a1573b4b54d88fb48dff4a33d8c4a80be9b8d17d5",
+   "size": 1510075
   },
   "mods/evenmoreinstruments-neoforge-1.21-1.21.1-6.1.4.jar": {
    "sha256": "074a2e254c85aa6772c7f4b29ddbddaa106fb11ca318026b162cccdcb03260fd",
    "size": 6663854
   },
-  "mods/fallingleaves-1.21.1-2.5.1.jar": {
-   "sha256": "3c03b49b5f35481d4baf61ec1fe04233b39cb5a34f7447be04f7d4efd2976834",
-   "size": 153343
+  "mods/fallingleaves-1.21.1-2.6.0.jar": {
+   "sha256": "bd61dea7abfbe756c9dab53ec8bcd236e3f5df2767aeaa57653e4b8e48fa8ce4",
+   "size": 153794
   },
   "mods/farsight-1.21.1-5.5.jar": {
    "sha256": "f6f282836576fbda6075ca3ea57e09f89d30ab8cd90400a2f47f20c73b10e92f",
@@ -1565,9 +1565,9 @@
    "sha256": "d87ea28262715ebff45b8a82d493e6b468e7a4521bc021df5d88302196d030a8",
    "size": 121559
   },
-  "mods/forgified-fabric-api-0.116.15+2.3.5+1.21.1.jar": {
-   "sha256": "96f8b489f401c64e87343daf57a030ccd1b58be40fc0aad701278ba58a0fadaf",
-   "size": 5613159
+  "mods/forgified-fabric-api-0.116.15+2.3.6+1.21.1.jar": {
+   "sha256": "bcbb5d8479032690d53debfcf61c0477080ff6d1d4dae9a9a85122b47377646a",
+   "size": 5612888
   },
   "mods/fwa+1.21.1-neoforge-1.2.31.jar": {
    "sha256": "bb57d6ab7161b3ef0e72a67537728dfc4aee706b4b15a367362903623d8ce1b0",
@@ -1609,9 +1609,9 @@
    "sha256": "8bc3936d869e4040a5649c58b7e8be1c78c82a245c0dc07bdd68ab49121a222c",
    "size": 1804792
   },
-  "mods/jewelry-neoforge-2.4.0+1.21.1.jar": {
-   "sha256": "3217765ddf5e590dbe8b9b54b4725eb45beb87bad55e7ff248669242578e26af",
-   "size": 502727
+  "mods/jewelry-neoforge-2.5.1+1.21.1.jar": {
+   "sha256": "7f8d4ffab55a981607fd3b27dfe6c08d8bea43a8ab3c31afbdcba27a6765ceaa",
+   "size": 628210
   },
   "mods/kotlinforforge-5.12.0-all.jar": {
    "sha256": "2785a4dd6de5c6c56065fd8eb789c82771bd2ee773c30794c23160a3b2c39139",
@@ -1621,25 +1621,25 @@
    "sha256": "913b0358b1031828f1e060ea0ee361232dc2a1c82464f488a0a920739ce7c763",
    "size": 2023375
   },
-  "mods/letsdo-bakery-neoforge-2.1.6.jar": {
-   "sha256": "bfe7f9b3ea104fb68303d49b7cda0876520a5504067b2ba0293965474aaef649",
-   "size": 1039749
+  "mods/letsdo-bakery-neoforge-2.1.11.jar": {
+   "sha256": "7cf41c0fad07939f47b67550029a5335da4ca761ef567c50ced888240063d474",
+   "size": 1649471
   },
-  "mods/letsdo-brewery-neoforge-2.1.9.jar": {
-   "sha256": "7abbc2bb43fa319d4893e84b145b2cc803e6e61f5e6f0c37ec4611567a07ed66",
-   "size": 1656054
+  "mods/letsdo-brewery-neoforge-2.1.13.jar": {
+   "sha256": "86f19a428fd37fc4c6831dc940f401b178238c51f86a95da7809cc928c24df8b",
+   "size": 2230362
   },
-  "mods/letsdo-farm_and_charm-neoforge-1.1.25.jar": {
-   "sha256": "d1cdcfb6ec6c53ea051b1e5bee410f267d1343908bd01a7f5b68d35e2b28bab1",
-   "size": 2598563
+  "mods/letsdo-farm_and_charm-neoforge-1.1.29.jar": {
+   "sha256": "cf5e8db36245a2d0644df364151b2b19494b4620a1b82d9e3d20eb62c1253f5f",
+   "size": 3414667
   },
-  "mods/letsdo-furniture-neoforge-1.1.6.jar": {
-   "sha256": "837c4eb400cce01ecea73e8c64024103249302d4a4f557f184f5dda9a75c8547",
-   "size": 3905139
+  "mods/letsdo-furniture-neoforge-1.1.10.jar": {
+   "sha256": "c1677c358626307bc7578d71febc3500e37437ac15a304abe794886f1d0151f7",
+   "size": 4658652
   },
-  "mods/letsdo-vinery-neoforge-1.5.4.jar": {
-   "sha256": "5525814d6fb0c3b42e85107de2f87963e18da05da273e415d02c4a5b1a9e6853",
-   "size": 2018257
+  "mods/letsdo-vinery-neoforge-1.5.6.jar": {
+   "sha256": "7e5e4e901a599a499bd510490ec12e72e8547e53b61790778fa7848852c451ec",
+   "size": 2570708
   },
   "mods/libjf-3.17.7+forge.jar": {
    "sha256": "1617ee79d44d04596d79522e339a6001f9f0478229594473d23900f1f8411da4",
@@ -1773,9 +1773,9 @@
    "sha256": "6403a34061edd82fc966102041bc1c0639b4dbb106441eaf171746ea59856f5d",
    "size": 2964138
   },
-  "mods/skinlayers3d-neoforge-1.11.3-mc1.21.1.jar": {
-   "sha256": "af7dcd6c6a40793adc0f7e57dd8fcc04c9e9bdf9c8ffa4efeb36e22d8b1f79db",
-   "size": 1903528
+  "mods/skinlayers3d-neoforge-1.11.4-mc1.21.1.jar": {
+   "sha256": "0b6594418245efbe4ae2cf7fde133878d56a4c41eff06e231ba7e1a233e0b615",
+   "size": 1905514
   },
   "mods/sodium-extra-neoforge-0.9.4+mc1.21.1.jar": {
    "sha256": "655b4a25d3d1ccc0f53d0589c676f0a86e46843ae537749048b4b0edc33a0f6f",
@@ -1968,9 +1968,9 @@
  "_mirror": {
   "note": "Запасной индекс. Рабочий — download.inflexus.world/cloud/index_v3.json; сюда лаунчер приходит, только если тот не ответил. Генерируется автоматически (Relay 146, gh_mirror_sync.py) — руками не править.",
   "source": "https://download.inflexus.world/cloud/index_v3.json",
-  "source_generated": 1791795253,
+  "source_generated": 1792461481,
   "mirror": "https://github.com/milkycloud-dev/notebuns-cdn-mirror",
-  "commit": "ded008762bf2acaa6726f02b97b4c74208c81737",
-  "synced_at": "2026-10-12T08:57:09Z"
+  "commit": "83060f5d282913952d94912b22fe939d3a06d0e3",
+  "synced_at": "2026-10-20T02:03:09Z"
  }
 }
