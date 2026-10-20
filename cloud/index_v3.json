@@ -1,9 +1,9 @@
 {
  "schema": 3,
- "generated": 1792461481,
+ "generated": 1792462081,
  "launcher_version": "3.0.0",
  "minecraft_version": "1.21.1",
- "base_url": "https://raw.githubusercontent.com/milkycloud-dev/notebuns-cdn-mirror/83060f5d282913952d94912b22fe939d3a06d0e3/cloud/",
+ "base_url": "https://raw.githubusercontent.com/milkycloud-dev/notebuns-cdn-mirror/f2c2cfbe891ac35b363792410ea4856dd5f9f020/cloud/",
  "managed_dirs": [
   "mods",
   "config",
@@ -1345,10 +1345,6 @@
    "sha256": "389d32b1a214dbe9d215a0191c5bd78738c695492bb2e0be4c02a43c4aa8dd97",
    "size": 589641
   },
-  "mods/PuzzlesLib-v21.1.60-mc1.21.1-NeoForge.jar": {
-   "sha256": "179bcaafb812618834ba82e7f29b15eaee8894f74fb96152a51cfc22ad4f45c4",
-   "size": 1442182
-  },
   "mods/Searchables-neoforge-1.21.1-1.0.2.jar": {
    "sha256": "ca193f0c69033d8f709f9e073a7c1ef4ea46714e5c2f94eb23ace12781c6aa68",
    "size": 77326
@@ -1661,17 +1657,17 @@
    "sha256": "ee774b72135450ef9db1c7a75837304f30d05c3541e3a348c4f5769ab0f04912",
    "size": 47035
   },
-  "mods/modernfix-neoforge-5.27.24+mc1.21.1.jar": {
-   "sha256": "e6e9446890f0feb3aab3f6e73ae18cb17575c370f232179fef7baa30e61538fe",
-   "size": 604333
+  "mods/modernfix-neoforge-5.27.26+mc1.21.1.jar": {
+   "sha256": "09f6842c63d14b3f1707f1f4a6f4602052f237f7efa9be135e41d3d97acf2a13",
+   "size": 611043
   },
-  "mods/moonlight-1.21.1-3.6.6-neoforge.jar": {
-   "sha256": "17fb38fd9c55e67625e4b7502fc0cfc870c4cc6e3eb9b2683feda322e49581cf",
-   "size": 2286632
+  "mods/moonlight-1.21.1-3.7.2-neoforge.jar": {
+   "sha256": "4a9f15108607cc70273f8a0b6eb24e1e99af8eef44bc3ae8681767ca7ce21b0f",
+   "size": 2299162
   },
-  "mods/mru-1.0.40+1.21.1-neoforge.jar": {
-   "sha256": "d13f2d4dd2b8c2ca4a65a5a163fc043d5e3e341f15b2fc906cb256dc8e2e4bb5",
-   "size": 151039
+  "mods/mru-1.0.41+1.21.1-neoforge.jar": {
+   "sha256": "245ebec0b410fb1a7456bb0cd970ea015fb7c243a0f45a4d79d655dc01bb6d89",
+   "size": 151764
   },
   "mods/notebuns-menu-1.4.10.jar": {
    "sha256": "b38ae33b4c706398b26499485981066cd861176abb138a117cde612f165a5d77",
@@ -1681,21 +1677,21 @@
    "sha256": "f94e9b0610d5cd65341e589236257046d628e44410325b59a07ab39d1c127b51",
    "size": 365498
   },
-  "mods/notenoughanimations-neoforge-1.12.4-mc1.21.1.jar": {
-   "sha256": "a8705202193813de291195ad6bbd03101c4ddc1ab2878aadb018ab92f903999f",
-   "size": 1939625
+  "mods/notenoughanimations-neoforge-1.12.6-mc1.21.1.jar": {
+   "sha256": "e70609c5638d9f02edfb2c8ec448a7d567345323d7386937c174526aac56cb8f",
+   "size": 1866035
   },
   "mods/nowheel-1.0.6+1.21.1neoforge.jar": {
    "sha256": "0b1379cbef442c6c21e2ab7a5da5d29e9959fe62fd83aef3e8a77b039cdf6b4d",
    "size": 75713
   },
-  "mods/owo-lib-neoforge-0.12.15.5-beta.1+1.21.jar": {
-   "sha256": "de6ed336bd80154b7241a7b3276694befc1c94550add8bcdfe7f82e5172fd13d",
-   "size": 1221583
+  "mods/owo-lib-neoforge-0.12.15.6-beta.1+1.21.jar": {
+   "sha256": "5fc306ad3d42e1dc26812f2df856e7c232376405caab6af4f5aaffe89cd2b256",
+   "size": 1223197
   },
-  "mods/paladins-neoforge-3.1.1+1.21.1.jar": {
-   "sha256": "4db39abff682d1e707bdc0892e42cc1f8ed371da3b0b77f6b4cf2fc042bdb6a2",
-   "size": 3114593
+  "mods/paladins-neoforge-3.1.3+1.21.1.jar": {
+   "sha256": "d5846395649e455aaa2882478066adf63cd268b48c270ac401347b5a556802d8",
+   "size": 3115770
   },
   "mods/personality-1.21.1-5.0.2.jar": {
    "sha256": "9c0fd81a32f60b8af933816d06f2cf58d53ce6433221b820ab0b90df686df248",
@@ -1713,13 +1709,17 @@
    "sha256": "ccf46c442ed3c7fe41ad056f0940560829ec4dd88360985dfacd78f4614eb167",
    "size": 84812
   },
-  "mods/puffish_skills-0.19.1-1.21-neoforge.jar": {
-   "sha256": "e37b27e89d997ad39a0d85aae9cfdaa65cfb367f3e13a99013c9d314dd828e87",
-   "size": 653105
+  "mods/puffish_skills-0.19.2-1.21-neoforge.jar": {
+   "sha256": "d96e4b5735bd05c7210892f75bf078a0a4cac67a8d99f28076e5a4a57fd4e2cd",
+   "size": 652840
   },
-  "mods/punchy-2.8a-neoforge-1.21.1.jar": {
-   "sha256": "d9ac766524933a8bab6539cd6bd44b484f758ae7c53fa11dfc6efbe358f46900",
-   "size": 1813689
+  "mods/punchy-2.8g-neoforge-1.21.1.jar": {
+   "sha256": "13cc051fc6fecb4b680541702ab485520a37f9f9c26e682d6ffd1eb8bda547d9",
+   "size": 2056747
+  },
+  "mods/puzzleslib-v21.1.64-mc1.21.1+neoforge.jar": {
+   "sha256": "8f0694456687614dea3861515ce04e2a0d0bf9d87aa48ea2edc4972b0ba4e88b",
+   "size": 1451067
   },
   "mods/ranged_weapon_api-neoforge-3.0.0+1.21.1.jar": {
    "sha256": "3011f512bdcc231778a225941187a70e4282b0b526d7d93f2b0896cde9b796c5",
@@ -1745,17 +1745,17 @@
    "sha256": "e5c505097ddac82abf351808473f8fb4c8eb24f3a7cf1e6333644f708b4dbc65",
    "size": 573434
   },
-  "mods/rogues-neoforge-3.1.1+1.21.1.jar": {
-   "sha256": "d3af832dc1059e42bc0a0c9c0e9cc8f1011286f1d098ef03d05407d7c9477484",
-   "size": 1750309
+  "mods/rogues-neoforge-3.1.3+1.21.1.jar": {
+   "sha256": "676efe0bd4ea9bef5d9aa4dfe28e28515d56f6c69f6d81cc7a3ef01b8ee17f59",
+   "size": 1751945
   },
   "mods/runes-neoforge-1.3.2+1.21.1.jar": {
    "sha256": "51fee4d0f16ddb705c8cac116050834c74f5dc05f695dcf203689bad72cd6ba6",
    "size": 329875
   },
-  "mods/sable-neoforge-1.21.1-2.0.5.jar": {
-   "sha256": "c8710f85bc780bbf523e6726ceaaf76dd0b8c61479db497b382c6bb34317e7ab",
-   "size": 12986136
+  "mods/sable-neoforge-1.21.1-2.0.6.jar": {
+   "sha256": "9c199157843bf953a47dff625fc5bb41c01a90538d35ad18e6996bbcb8a617c2",
+   "size": 12986135
   },
   "mods/seamless-loading-screen-2.2.1+1.21-neoforge.jar": {
    "sha256": "ab251f81080f4d0891d8576ab14b598f3e46b699a17baf58ffab7a9a2efeb395",
@@ -1769,9 +1769,9 @@
    "sha256": "36c6ab0fd4b6e684e2d554c67d783067dced9906cfd2b75cae56dd9ede53407a",
    "size": 381204
   },
-  "mods/skill_tree-neoforge-1.6.0+1.21.1.jar": {
-   "sha256": "6403a34061edd82fc966102041bc1c0639b4dbb106441eaf171746ea59856f5d",
-   "size": 2964138
+  "mods/skill_tree-neoforge-1.6.1+1.21.1.jar": {
+   "sha256": "059150f9dfd3b97ddbf00eab2774abb260c5276e4932d4fb61be2dc77baa6cae",
+   "size": 2964225
   },
   "mods/skinlayers3d-neoforge-1.11.4-mc1.21.1.jar": {
    "sha256": "0b6594418245efbe4ae2cf7fde133878d56a4c41eff06e231ba7e1a233e0b615",
@@ -1793,17 +1793,17 @@
    "sha256": "647e8a81afbe414dba1df4ba15fd06c5d32d4cb544e68828405e8e074c2e16db",
    "size": 3642581
   },
-  "mods/spell_engine-neoforge-1.10.7+1.21.1.jar": {
-   "sha256": "fb63732cfc9868c684524240ec022fea139326b7f66c66323f8e249e261f2014",
-   "size": 4605810
+  "mods/spell_engine-neoforge-1.10.9+1.21.1.jar": {
+   "sha256": "d8187fb166373eaaa61984e2bc5b5ef24501701fafb9bf73c8be822dbd5f026e",
+   "size": 4629624
   },
   "mods/spell_power-neoforge-1.6.0+1.21.1.jar": {
    "sha256": "a57cd041be1bee86640861588ad9b4a3a032d2dedff8d44abf5305136e2f5854",
    "size": 222955
   },
-  "mods/starcatcher-3.1.4.1-NEOFORGE-1.21.1.jar": {
-   "sha256": "4114eba0769936c354cf946b6089c9d17be02b7537c86f6758ebd525c773f8b4",
-   "size": 4369845
+  "mods/starcatcher-3.3.10-NEOFORGE-1.21.1.jar": {
+   "sha256": "231e4673ac5a148989ca0eac59efc9bcebb62a6c88830ea5237e1a62f54936b4",
+   "size": 4814033
   },
   "mods/structure_pool_api-neoforge-1.2.1+1.21.1.jar": {
    "sha256": "c18460025b07bc05fdc95bf62621c6b56f45e4eeb1c319f12787f39eb9315ea9",
@@ -1829,37 +1829,37 @@
    "sha256": "493da16d10210f9f53a3c33b3d8fcb4ae9b14016ee420d753c894562bd9aba35",
    "size": 27154121
   },
-  "mods/voicechat-neoforge-1.21.1-2.6.22.jar": {
-   "sha256": "63116a4d21bd57221482d971dd85822f7c723c210b60411670cdb0aa26873cac",
-   "size": 4918442
+  "mods/voicechat-neoforge-1.21.1-2.6.24.jar": {
+   "sha256": "7af3bbc34948cc0f833946fd4b0d2db7ed608f67a12702be4df6f731a4b66290",
+   "size": 4934688
   },
-  "mods/waveycapes-neoforge-1.11.2-mc1.21.1.jar": {
-   "sha256": "02af7c86499d4df31b6bd065faf1903f2eebcada3f57804f6d52b3921c2974ab",
-   "size": 1780336
+  "mods/waveycapes-neoforge-1.11.3-mc1.21.1.jar": {
+   "sha256": "f24f8bf4282c67f0cb9278e92264d801f7ccd4eafd7a76be1b836f525ec190a1",
+   "size": 1773645
   },
   "mods/weaponmaster_ydm-1.21.1-neoforge-4.2.7.jar": {
    "sha256": "af0de505aef99fa9feca6b969932b28b834f4663dcb95c12bf65dccbe304a605",
    "size": 344392
   },
-  "mods/wizards-neoforge-3.1.2+1.21.1.jar": {
-   "sha256": "feb4d0ac5c000e64ce2c19ddb42ab33092273001dd4fcf45521c6308eae1bf94",
-   "size": 4517248
+  "mods/wizards-neoforge-3.1.3+1.21.1.jar": {
+   "sha256": "14356642c4b6e863362804082f97d6a88eb0d3360f7b23c1ee35224cd804ac79",
+   "size": 4519814
   },
   "mods/worldweaver-21.0.25.jar": {
    "sha256": "6750a60983b22711cf14587d1e7a25c6327c9bec24952b4cbf5a26f40336ee1b",
    "size": 2215098
   },
-  "mods/wunderlib-21.0.10.jar": {
-   "sha256": "b49c7a040f87ade1e3f73bd7335e8d68ff7a328919c192a6d2c022bae6786a2f",
-   "size": 378820
+  "mods/wunderlib-21.0.11.jar": {
+   "sha256": "2f39302b8da949195ffc57d07d0668f867c8ba9f2874bb6eef0bdd1e9fed9ba4",
+   "size": 378829
   },
-  "mods/xaerominimap-neoforge-1.21.1-26.5.0.jar": {
-   "sha256": "667105d8fdca64b27b29d8e0b88e67e7342038d3fb4edc4129bf452b601c6d20",
-   "size": 2185559
+  "mods/xaerominimap-neoforge-1.21.1-26.6.0.jar": {
+   "sha256": "d3398221b2262abfe2d394b588122e5b3fd2e4d8c4bf66a5fd357352fcf51b2e",
+   "size": 2186351
   },
-  "mods/xaeroworldmap-neoforge-1.21.1-1.46.0.jar": {
-   "sha256": "a7f059e4c48211f6d5c962e7640f5179cc1636bccc907ea77ab9e1865635cb24",
-   "size": 1422680
+  "mods/xaeroworldmap-neoforge-1.21.1-1.47.0.jar": {
+   "sha256": "6a42b6f01bd96b496e5fcc07d4541bad1a699d9ec8ad58ad40d5dcfe23a7d4c7",
+   "size": 1427078
   },
   "mods/yet_another_config_lib_v3-3.8.2+1.21.1-neoforge.jar": {
    "sha256": "b5c30321b46cfaa521645a04aff89d2804d8167a25bb23ad4b1ae8da73093a2f",
@@ -1968,9 +1968,9 @@
  "_mirror": {
   "note": "Запасной индекс. Рабочий — download.inflexus.world/cloud/index_v3.json; сюда лаунчер приходит, только если тот не ответил. Генерируется автоматически (Relay 146, gh_mirror_sync.py) — руками не править.",
   "source": "https://download.inflexus.world/cloud/index_v3.json",
-  "source_generated": 1792461481,
+  "source_generated": 1792462081,
   "mirror": "https://github.com/milkycloud-dev/notebuns-cdn-mirror",
-  "commit": "83060f5d282913952d94912b22fe939d3a06d0e3",
-  "synced_at": "2026-10-20T02:03:09Z"
+  "commit": "f2c2cfbe891ac35b363792410ea4856dd5f9f020",
+  "synced_at": "2026-10-20T02:13:05Z"
  }
 }
