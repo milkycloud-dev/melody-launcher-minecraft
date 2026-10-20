@@ -1,8 +1,18 @@
 {
   "version": 6,
-  "updated": "2026-10-09T21:10:12Z",
+  "updated": "2026-10-20T07:27:15Z",
   "updated_by": "dc:milky_eu",
   "cards": [
+    {
+      "id": "card-1a15830047f",
+      "kind": "wide",
+      "title": "Глобальное обновление версий модов",
+      "text": "Ядро и все моды сервера обновлены до новых версий с добавлением нового контента. При использовании сторонних лаунчеров необходимо переустановить сборку модов с сайта",
+      "image": "https://download.inflexus.world/cloud/pics_uploads/6ebb9f1977b267897f509299.jpg",
+      "link": "",
+      "date": "2026-10-20",
+      "tag": ""
+    },
     {
       "id": "card-mv1gftpo",
       "kind": "square",
