@@ -1,9 +1,9 @@
 {
  "schema": 3,
- "generated": 1792473481,
+ "generated": 1792477681,
  "launcher_version": "3.0.0",
  "minecraft_version": "1.21.1",
- "base_url": "https://raw.githubusercontent.com/milkycloud-dev/notebuns-cdn-mirror/20aca981c09e2670729840faea532f6190528b05/cloud/",
+ "base_url": "https://raw.githubusercontent.com/milkycloud-dev/notebuns-cdn-mirror/65296a664605041639371cca1da185587f1d3022/cloud/",
  "managed_dirs": [
   "mods",
   "config",
@@ -1269,9 +1269,9 @@
    "sha256": "24098c81fb0e94d0bab9c4b33b6f776eb7da8320d7647d2c1a6429699a453154",
    "size": 191292
   },
-  "mods/BetterEnd-21.0.34.jar": {
-   "sha256": "45befc75466153f2f62d8c17a790b58ce794a4216ea152fc21190aa9dc40a440",
-   "size": 97673585
+  "mods/BetterEnd-21.0.38.jar": {
+   "sha256": "00c9263280b5aec16703ba22b3a56457436591913133f6b1a5cf11b1f29fc0d5",
+   "size": 97736268
   },
   "mods/BetterF3-11.0.3-NeoForge-1.21.1.jar": {
    "sha256": "1a97b6ca5c81b3b18d653f403929908e3b48bb1bdb6e8bd8559f89cf0294dc26",
@@ -1429,9 +1429,9 @@
    "sha256": "6be660e1f6d169553bf44f66d4f78bb9e96a1d66ce108d9608819e3ce6bfba34",
    "size": 783793
   },
-  "mods/bclib-21.0.26.jar": {
-   "sha256": "73ba7957d61588189eb35415f2ce9b063e7d4a102c6a4757582ba8fad310f2e0",
-   "size": 2159176
+  "mods/bclib-21.0.28.jar": {
+   "sha256": "e8d5b8ce29d51eb0845c19fd2172d99237841bd20bc4bc25b7cbf4965a5ad506",
+   "size": 2167518
   },
   "mods/beautify-neoforge-1.21.1-2.0.2.jar": {
    "sha256": "30fe272345eb016408d9144a7d33795a8bff0f33f68d9ab71805d0088b818f26",
@@ -1601,9 +1601,9 @@
    "sha256": "60d5f8bf52f25e9986440f4a4270a6bd986d9cff994510e1108ac1547063b314",
    "size": 2540723
   },
-  "mods/jei-1.21.1-neoforge-19.51.0.418.jar": {
-   "sha256": "8bc3936d869e4040a5649c58b7e8be1c78c82a245c0dc07bdd68ab49121a222c",
-   "size": 1804792
+  "mods/jei-1.21.1-neoforge-19.69.0.456.jar": {
+   "sha256": "fa5c05991b793149db702898b2e44b39b9b32db182de6aa7ff5bae66d7e149c6",
+   "size": 7350892
   },
   "mods/jewelry-neoforge-2.5.1+1.21.1.jar": {
    "sha256": "7f8d4ffab55a981607fd3b27dfe6c08d8bea43a8ab3c31afbdcba27a6765ceaa",
@@ -1681,9 +1681,9 @@
    "sha256": "e70609c5638d9f02edfb2c8ec448a7d567345323d7386937c174526aac56cb8f",
    "size": 1866035
   },
-  "mods/nowheel-1.0.6+1.21.1neoforge.jar": {
-   "sha256": "0b1379cbef442c6c21e2ab7a5da5d29e9959fe62fd83aef3e8a77b039cdf6b4d",
-   "size": 75713
+  "mods/nowheel-2.1.1+1.21.1neoforge.jar": {
+   "sha256": "82e4671af59e84c8d22992ff1af7e8fc6c2cde431475c4a82198b9678885975d",
+   "size": 86568
   },
   "mods/owo-lib-neoforge-0.12.15.6-beta.1+1.21.jar": {
    "sha256": "5fc306ad3d42e1dc26812f2df856e7c232376405caab6af4f5aaffe89cd2b256",
@@ -1701,9 +1701,9 @@
    "sha256": "dbe5de45f5cd60c0e5e47af14e6d564534a98456e973cf670cb881f6938eee92",
    "size": 203149
   },
-  "mods/polymorph-neoforge-1.1.0+1.21.1.jar": {
-   "sha256": "bec8118978adeb052de9c4eaf9a595830621d82515a764f32f9c8a4dd52ab94b",
-   "size": 174972
+  "mods/polymorph-neoforge-1.2.0+1.21.1.jar": {
+   "sha256": "4a09b7a3c8ea4f5b79acadb405a18140fe20d882e6930403c46cc7ad49c5ec06",
+   "size": 172671
   },
   "mods/prickle-neoforge-1.21.1-21.1.11.jar": {
    "sha256": "ccf46c442ed3c7fe41ad056f0940560829ec4dd88360985dfacd78f4614eb167",
@@ -1809,9 +1809,9 @@
    "sha256": "c18460025b07bc05fdc95bf62621c6b56f45e4eeb1c319f12787f39eb9315ea9",
    "size": 140459
   },
-  "mods/supplementaries-1.21.1-3.9.9-neoforge.jar": {
-   "sha256": "d6876ad959d0da4bab0ba182839a0af0e38ef3571345e5e7aea0be572f958e05",
-   "size": 13548968
+  "mods/supplementaries-1.21.1-4.0.2-neoforge.jar": {
+   "sha256": "2c2e0c98e0cc21874d8b2130bc773a2a5a6cadd854b9c8163d0e1f32e2ddffb0",
+   "size": 13840377
   },
   "mods/tf_dnv-2.0.3.jar": {
    "sha256": "d027006a18a6686752805cdc17d09763d7d30fdabda963ce36b8f0a8f55a6e3d",
@@ -1845,9 +1845,9 @@
    "sha256": "14356642c4b6e863362804082f97d6a88eb0d3360f7b23c1ee35224cd804ac79",
    "size": 4519814
   },
-  "mods/worldweaver-21.0.25.jar": {
-   "sha256": "6750a60983b22711cf14587d1e7a25c6327c9bec24952b4cbf5a26f40336ee1b",
-   "size": 2215098
+  "mods/worldweaver-21.0.28.jar": {
+   "sha256": "f30d9c79e7362fb134e171910bdeb1d5d328c692cfd3081006f7b8a76dc5a59b",
+   "size": 2215576
   },
   "mods/wunderlib-21.0.11.jar": {
    "sha256": "2f39302b8da949195ffc57d07d0668f867c8ba9f2874bb6eef0bdd1e9fed9ba4",
@@ -1968,9 +1968,9 @@
  "_mirror": {
   "note": "Запасной индекс. Рабочий — download.inflexus.world/cloud/index_v3.json; сюда лаунчер приходит, только если тот не ответил. Генерируется автоматически (Relay 146, gh_mirror_sync.py) — руками не править.",
   "source": "https://download.inflexus.world/cloud/index_v3.json",
-  "source_generated": 1792473481,
+  "source_generated": 1792477681,
   "mirror": "https://github.com/milkycloud-dev/notebuns-cdn-mirror",
-  "commit": "20aca981c09e2670729840faea532f6190528b05",
-  "synced_at": "2026-10-20T05:23:17Z"
+  "commit": "65296a664605041639371cca1da185587f1d3022",
+  "synced_at": "2026-10-20T06:33:09Z"
  }
 }
