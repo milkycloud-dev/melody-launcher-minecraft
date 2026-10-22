@@ -1,9 +1,9 @@
 {
  "schema": 3,
- "generated": 1792477681,
+ "generated": 1792638481,
  "launcher_version": "3.0.0",
  "minecraft_version": "1.21.1",
- "base_url": "https://raw.githubusercontent.com/milkycloud-dev/notebuns-cdn-mirror/65296a664605041639371cca1da185587f1d3022/cloud/",
+ "base_url": "https://raw.githubusercontent.com/milkycloud-dev/notebuns-cdn-mirror/b48da93bbca78f726429626a5b8fc0946cf63945/cloud/",
  "managed_dirs": [
   "mods",
   "config",
@@ -1601,8 +1601,8 @@
    "sha256": "60d5f8bf52f25e9986440f4a4270a6bd986d9cff994510e1108ac1547063b314",
    "size": 2540723
   },
-  "mods/jei-1.21.1-neoforge-19.69.0.456.jar": {
-   "sha256": "fa5c05991b793149db702898b2e44b39b9b32db182de6aa7ff5bae66d7e149c6",
+  "mods/jei-1.21.1-neoforge-19.69.0.457.jar": {
+   "sha256": "5f09d199dba1265e131ef1672597ea07857220e4cc2ff1dc754e8bd0e6378925",
    "size": 7350892
   },
   "mods/jewelry-neoforge-2.5.1+1.21.1.jar": {
@@ -1845,9 +1845,9 @@
    "sha256": "14356642c4b6e863362804082f97d6a88eb0d3360f7b23c1ee35224cd804ac79",
    "size": 4519814
   },
-  "mods/worldweaver-21.0.28.jar": {
-   "sha256": "f30d9c79e7362fb134e171910bdeb1d5d328c692cfd3081006f7b8a76dc5a59b",
-   "size": 2215576
+  "mods/worldweaver-21.0.29.jar": {
+   "sha256": "ad74878bf7e555d52f7dbe7dde21c1594b1b8a8265c5eff6a9aafd210740a8f8",
+   "size": 2222966
   },
   "mods/wunderlib-21.0.11.jar": {
    "sha256": "2f39302b8da949195ffc57d07d0668f867c8ba9f2874bb6eef0bdd1e9fed9ba4",
@@ -1968,9 +1968,9 @@
  "_mirror": {
   "note": "Запасной индекс. Рабочий — download.inflexus.world/cloud/index_v3.json; сюда лаунчер приходит, только если тот не ответил. Генерируется автоматически (Relay 146, gh_mirror_sync.py) — руками не править.",
   "source": "https://download.inflexus.world/cloud/index_v3.json",
-  "source_generated": 1792477681,
+  "source_generated": 1792638481,
   "mirror": "https://github.com/milkycloud-dev/notebuns-cdn-mirror",
-  "commit": "65296a664605041639371cca1da185587f1d3022",
-  "synced_at": "2026-10-20T06:33:09Z"
+  "commit": "b48da93bbca78f726429626a5b8fc0946cf63945",
+  "synced_at": "2026-10-22T03:12:54Z"
  }
 }
