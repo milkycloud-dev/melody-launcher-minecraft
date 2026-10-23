@@ -1,9 +1,9 @@
 {
  "schema": 3,
- "generated": 1792638481,
+ "generated": 1792724881,
  "launcher_version": "3.0.0",
  "minecraft_version": "1.21.1",
- "base_url": "https://raw.githubusercontent.com/milkycloud-dev/notebuns-cdn-mirror/b48da93bbca78f726429626a5b8fc0946cf63945/cloud/",
+ "base_url": "https://raw.githubusercontent.com/milkycloud-dev/notebuns-cdn-mirror/d0031015929db0f099cdb2f26ea88ce11bb7ba51/cloud/",
  "managed_dirs": [
   "mods",
   "config",
@@ -1385,9 +1385,9 @@
    "sha256": "43bf78569341397ac67901029bf199aa98cd11db70373bccfc87975b4a9c53bb",
    "size": 538832
   },
-  "mods/amendments-1.21-2.1.11-neoforge.jar": {
-   "sha256": "7bc18ef0554ab305c4af7d1bdb60b0a45edec2a5d9aabf307dd7b26cf2ad2447",
-   "size": 1175215
+  "mods/amendments-1.21-2.2.0-neoforge.jar": {
+   "sha256": "e269e7793ef2ee634f94112338df6ca6e0b32ba467d0398861fa89017feba0e0",
+   "size": 1179436
   },
   "mods/anvianslib-neoforge-1.21-1.4.2.jar": {
    "sha256": "7bc8e8204699c08870ae022e7a7356ee872adf4e0a56d29d5be82ea3f22922b7",
@@ -1717,9 +1717,9 @@
    "sha256": "13cc051fc6fecb4b680541702ab485520a37f9f9c26e682d6ffd1eb8bda547d9",
    "size": 2056747
   },
-  "mods/puzzleslib-v21.1.64-mc1.21.1+neoforge.jar": {
-   "sha256": "8f0694456687614dea3861515ce04e2a0d0bf9d87aa48ea2edc4972b0ba4e88b",
-   "size": 1451067
+  "mods/puzzleslib-v21.1.65-mc1.21.1+neoforge.jar": {
+   "sha256": "5317fe131954accbe884b079f75713d6f9024b291085314d6c23b3a697fc2771",
+   "size": 1451117
   },
   "mods/ranged_weapon_api-neoforge-3.0.0+1.21.1.jar": {
    "sha256": "3011f512bdcc231778a225941187a70e4282b0b526d7d93f2b0896cde9b796c5",
@@ -1968,9 +1968,9 @@
  "_mirror": {
   "note": "Запасной индекс. Рабочий — download.inflexus.world/cloud/index_v3.json; сюда лаунчер приходит, только если тот не ответил. Генерируется автоматически (Relay 146, gh_mirror_sync.py) — руками не править.",
   "source": "https://download.inflexus.world/cloud/index_v3.json",
-  "source_generated": 1792638481,
+  "source_generated": 1792724881,
   "mirror": "https://github.com/milkycloud-dev/notebuns-cdn-mirror",
-  "commit": "b48da93bbca78f726429626a5b8fc0946cf63945",
-  "synced_at": "2026-10-22T03:12:54Z"
+  "commit": "d0031015929db0f099cdb2f26ea88ce11bb7ba51",
+  "synced_at": "2026-10-23T03:12:56Z"
  }
 }
