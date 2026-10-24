@@ -1,9 +1,9 @@
 {
  "schema": 3,
- "generated": 1792724881,
+ "generated": 1792811281,
  "launcher_version": "3.0.0",
  "minecraft_version": "1.21.1",
- "base_url": "https://raw.githubusercontent.com/milkycloud-dev/notebuns-cdn-mirror/d0031015929db0f099cdb2f26ea88ce11bb7ba51/cloud/",
+ "base_url": "https://raw.githubusercontent.com/milkycloud-dev/notebuns-cdn-mirror/19c67c4b144f9631ee8284646a4c09471280e456/cloud/",
  "managed_dirs": [
   "mods",
   "config",
@@ -1829,9 +1829,9 @@
    "sha256": "493da16d10210f9f53a3c33b3d8fcb4ae9b14016ee420d753c894562bd9aba35",
    "size": 27154121
   },
-  "mods/voicechat-neoforge-1.21.1-2.6.24.jar": {
-   "sha256": "7af3bbc34948cc0f833946fd4b0d2db7ed608f67a12702be4df6f731a4b66290",
-   "size": 4934688
+  "mods/voicechat-neoforge-1.21.1-2.6.25.jar": {
+   "sha256": "b786a172bca71bd63bccaf4378aec60a9142e5ca090a3dd789e3e7327d3eabfb",
+   "size": 4935905
   },
   "mods/waveycapes-neoforge-1.11.3-mc1.21.1.jar": {
    "sha256": "f24f8bf4282c67f0cb9278e92264d801f7ccd4eafd7a76be1b836f525ec190a1",
@@ -1968,9 +1968,9 @@
  "_mirror": {
   "note": "Запасной индекс. Рабочий — download.inflexus.world/cloud/index_v3.json; сюда лаунчер приходит, только если тот не ответил. Генерируется автоматически (Relay 146, gh_mirror_sync.py) — руками не править.",
   "source": "https://download.inflexus.world/cloud/index_v3.json",
-  "source_generated": 1792724881,
+  "source_generated": 1792811281,
   "mirror": "https://github.com/milkycloud-dev/notebuns-cdn-mirror",
-  "commit": "d0031015929db0f099cdb2f26ea88ce11bb7ba51",
-  "synced_at": "2026-10-23T03:12:56Z"
+  "commit": "19c67c4b144f9631ee8284646a4c09471280e456",
+  "synced_at": "2026-10-24T03:12:54Z"
  }
 }
