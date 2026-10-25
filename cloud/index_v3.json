@@ -1,9 +1,9 @@
 {
  "schema": 3,
- "generated": 1792811281,
+ "generated": 1792897801,
  "launcher_version": "3.0.0",
  "minecraft_version": "1.21.1",
- "base_url": "https://raw.githubusercontent.com/milkycloud-dev/notebuns-cdn-mirror/19c67c4b144f9631ee8284646a4c09471280e456/cloud/",
+ "base_url": "https://raw.githubusercontent.com/milkycloud-dev/notebuns-cdn-mirror/2fc0a9171e265ab4d10cf1572a6486c9ae678c3a/cloud/",
  "managed_dirs": [
   "mods",
   "config",
@@ -1821,9 +1821,9 @@
    "sha256": "8bab1db6db37324d10d38ecc24d304d20115db3249712befc06be1d9824ea20e",
    "size": 128893
   },
-  "mods/travelersbackpack-neoforge-1.21.1-10.1.39.jar": {
-   "sha256": "3beae748c4e5788a2353ab14ade92ff68a097fc444bc95beaf526123a5b0536b",
-   "size": 1425397
+  "mods/travelersbackpack-neoforge-1.21.1-10.1.40.jar": {
+   "sha256": "b00b29622d0950470ad60497c0682d25e8f1327afe7dab2551fa53d2691fe2cb",
+   "size": 1444892
   },
   "mods/twilightforest-1.21.1-4.8.3345-universal.jar": {
    "sha256": "493da16d10210f9f53a3c33b3d8fcb4ae9b14016ee420d753c894562bd9aba35",
@@ -1968,9 +1968,9 @@
  "_mirror": {
   "note": "Запасной индекс. Рабочий — download.inflexus.world/cloud/index_v3.json; сюда лаунчер приходит, только если тот не ответил. Генерируется автоматически (Relay 146, gh_mirror_sync.py) — руками не править.",
   "source": "https://download.inflexus.world/cloud/index_v3.json",
-  "source_generated": 1792811281,
+  "source_generated": 1792897801,
   "mirror": "https://github.com/milkycloud-dev/notebuns-cdn-mirror",
-  "commit": "19c67c4b144f9631ee8284646a4c09471280e456",
-  "synced_at": "2026-10-24T03:12:54Z"
+  "commit": "2fc0a9171e265ab4d10cf1572a6486c9ae678c3a",
+  "synced_at": "2026-10-25T03:13:13Z"
  }
 }
