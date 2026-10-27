@@ -1,9 +1,9 @@
 {
  "schema": 3,
- "generated": 1793070481,
+ "generated": 1793103482,
  "launcher_version": "3.0.0",
  "minecraft_version": "1.21.1",
- "base_url": "https://raw.githubusercontent.com/milkycloud-dev/notebuns-cdn-mirror/18c28933e2b70fcb4d75f62c9f024348b7bd7a81/cloud/",
+ "base_url": "https://raw.githubusercontent.com/milkycloud-dev/notebuns-cdn-mirror/96376658a6f8818fe7b1935a86b7fdc2f9edaa00/cloud/",
  "managed_dirs": [
   "mods",
   "config",
@@ -1601,9 +1601,9 @@
    "sha256": "60d5f8bf52f25e9986440f4a4270a6bd986d9cff994510e1108ac1547063b314",
    "size": 2540723
   },
-  "mods/jei-1.21.1-neoforge-19.70.0.460.jar": {
-   "sha256": "097cdfae99b208dfb94f8c55e813af10e55688ecf4e42116fed1b7e26f0f4fcf",
-   "size": 4735620
+  "mods/jei-1.21.1-neoforge-19.69.0.457.jar": {
+   "sha256": "5f09d199dba1265e131ef1672597ea07857220e4cc2ff1dc754e8bd0e6378925",
+   "size": 7350892
   },
   "mods/jewelry-neoforge-2.5.1+1.21.1.jar": {
    "sha256": "7f8d4ffab55a981607fd3b27dfe6c08d8bea43a8ab3c31afbdcba27a6765ceaa",
@@ -1968,9 +1968,9 @@
  "_mirror": {
   "note": "Запасной индекс. Рабочий — download.inflexus.world/cloud/index_v3.json; сюда лаунчер приходит, только если тот не ответил. Генерируется автоматически (Relay 146, gh_mirror_sync.py) — руками не править.",
   "source": "https://download.inflexus.world/cloud/index_v3.json",
-  "source_generated": 1793070481,
+  "source_generated": 1793103482,
   "mirror": "https://github.com/milkycloud-dev/notebuns-cdn-mirror",
-  "commit": "18c28933e2b70fcb4d75f62c9f024348b7bd7a81",
-  "synced_at": "2026-10-27T03:12:58Z"
+  "commit": "96376658a6f8818fe7b1935a86b7fdc2f9edaa00",
+  "synced_at": "2026-10-27T12:23:37Z"
  }
 }
