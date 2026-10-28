@@ -1,9 +1,9 @@
 {
  "schema": 3,
- "generated": 1793103482,
+ "generated": 1793156881,
  "launcher_version": "3.0.0",
  "minecraft_version": "1.21.1",
- "base_url": "https://raw.githubusercontent.com/milkycloud-dev/notebuns-cdn-mirror/96376658a6f8818fe7b1935a86b7fdc2f9edaa00/cloud/",
+ "base_url": "https://raw.githubusercontent.com/milkycloud-dev/notebuns-cdn-mirror/0600a2cc8d8b3eb3000c1c08a56ac10f3f5e28f6/cloud/",
  "managed_dirs": [
   "mods",
   "config",
@@ -1717,9 +1717,9 @@
    "sha256": "13cc051fc6fecb4b680541702ab485520a37f9f9c26e682d6ffd1eb8bda547d9",
    "size": 2056747
   },
-  "mods/puzzleslib-v21.1.65-mc1.21.1+neoforge.jar": {
-   "sha256": "5317fe131954accbe884b079f75713d6f9024b291085314d6c23b3a697fc2771",
-   "size": 1451117
+  "mods/puzzleslib-v21.1.66-mc1.21.1+neoforge.jar": {
+   "sha256": "cb02de7e1d4a133746ec7b43a64eddc2cb621122cdc49e134a15272f456c31f2",
+   "size": 1451120
   },
   "mods/ranged_weapon_api-neoforge-3.0.0+1.21.1.jar": {
    "sha256": "3011f512bdcc231778a225941187a70e4282b0b526d7d93f2b0896cde9b796c5",
@@ -1968,9 +1968,9 @@
  "_mirror": {
   "note": "Запасной индекс. Рабочий — download.inflexus.world/cloud/index_v3.json; сюда лаунчер приходит, только если тот не ответил. Генерируется автоматически (Relay 146, gh_mirror_sync.py) — руками не править.",
   "source": "https://download.inflexus.world/cloud/index_v3.json",
-  "source_generated": 1793103482,
+  "source_generated": 1793156881,
   "mirror": "https://github.com/milkycloud-dev/notebuns-cdn-mirror",
-  "commit": "96376658a6f8818fe7b1935a86b7fdc2f9edaa00",
-  "synced_at": "2026-10-27T12:23:37Z"
+  "commit": "0600a2cc8d8b3eb3000c1c08a56ac10f3f5e28f6",
+  "synced_at": "2026-10-28T03:13:10Z"
  }
 }
