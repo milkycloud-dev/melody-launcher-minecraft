@@ -1,9 +1,9 @@
 {
  "schema": 3,
- "generated": 1793577481,
+ "generated": 1794059881,
  "launcher_version": "3.0.0",
  "minecraft_version": "1.21.1",
- "base_url": "https://raw.githubusercontent.com/milkycloud-dev/notebuns-cdn-mirror/876cd2522ce826eba11048f030a7a4f622d5110c/cloud/",
+ "base_url": "https://raw.githubusercontent.com/milkycloud-dev/notebuns-cdn-mirror/07952385b437d8951a2830c2b91e00217794a7d0/cloud/",
  "managed_dirs": [
   "mods",
   "config",
@@ -1285,9 +1285,9 @@
    "sha256": "cc525fb6b030d9e4d33176983f278919e17b33935e2ca568929bdfa98f2b44a0",
    "size": 77555
   },
-  "mods/CreativeCore_NEOFORGE_v2.13.51_mc1.21.1.jar": {
-   "sha256": "911b612783b00d9ebef63a700d1fb96d700915991f71063a047796465ce7be84",
-   "size": 1236490
+  "mods/CreativeCore_NEOFORGE_v2.13.52_mc1.21.1.jar": {
+   "sha256": "c24e1f6602315ab34f8f01c87760d3a4a682e6d77a6b4880b73cd7e6c80338b9",
+   "size": 1236541
   },
   "mods/Drip_Sounds-0.6.3+1.21.8-NeoForge.jar": {
    "sha256": "d5ad3eceefda8791fc02041614164c5b639c6fae199926711cd41e7dc9838f12",
@@ -1593,9 +1593,9 @@
    "sha256": "6796004ed983691a502fb7686828d840adc79110ad8c582a68787a108a7ed355",
    "size": 453902
   },
-  "mods/immersive_melodies-neoforge-0.8.0+1.21.1.jar": {
-   "sha256": "343e0fa92224e7c9697f2494265dcb5cc627a077b3fc2382142a8d04985bac0e",
-   "size": 5565133
+  "mods/immersive_melodies-neoforge-0.8.2+1.21.1.jar": {
+   "sha256": "345a54e22143ef3fa18c599a2972febe8916b5f522785dde04db688a4491792d",
+   "size": 5570070
   },
   "mods/iris-neoforge-1.8.14-beta.1+mc1.21.1.jar": {
    "sha256": "60d5f8bf52f25e9986440f4a4270a6bd986d9cff994510e1108ac1547063b314",
@@ -1677,9 +1677,9 @@
    "sha256": "f94e9b0610d5cd65341e589236257046d628e44410325b59a07ab39d1c127b51",
    "size": 365498
   },
-  "mods/notenoughanimations-neoforge-1.12.6-mc1.21.1.jar": {
-   "sha256": "e70609c5638d9f02edfb2c8ec448a7d567345323d7386937c174526aac56cb8f",
-   "size": 1866035
+  "mods/notenoughanimations-neoforge-1.12.7-mc1.21.1.jar": {
+   "sha256": "5b8107cf01128523233287d9b0789f743f9d6186bda651de838e02350b311828",
+   "size": 1868196
   },
   "mods/nowheel-2.1.1+1.21.1neoforge.jar": {
    "sha256": "82e4671af59e84c8d22992ff1af7e8fc6c2cde431475c4a82198b9678885975d",
@@ -1968,9 +1968,9 @@
  "_mirror": {
   "note": "Запасной индекс. Рабочий — download.inflexus.world/cloud/index_v3.json; сюда лаунчер приходит, только если тот не ответил. Генерируется автоматически (Relay 146, gh_mirror_sync.py) — руками не править.",
   "source": "https://download.inflexus.world/cloud/index_v3.json",
-  "source_generated": 1793577481,
+  "source_generated": 1794059881,
   "mirror": "https://github.com/milkycloud-dev/notebuns-cdn-mirror",
-  "commit": "876cd2522ce826eba11048f030a7a4f622d5110c",
-  "synced_at": "2026-11-02T00:02:59Z"
+  "commit": "07952385b437d8951a2830c2b91e00217794a7d0",
+  "synced_at": "2026-11-07T14:02:52Z"
  }
 }
