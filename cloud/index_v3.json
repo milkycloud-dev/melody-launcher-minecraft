@@ -1,9 +1,9 @@
 {
  "schema": 3,
- "generated": 1794059881,
+ "generated": 1794092881,
  "launcher_version": "3.0.0",
  "minecraft_version": "1.21.1",
- "base_url": "https://raw.githubusercontent.com/milkycloud-dev/notebuns-cdn-mirror/07952385b437d8951a2830c2b91e00217794a7d0/cloud/",
+ "base_url": "https://raw.githubusercontent.com/milkycloud-dev/notebuns-cdn-mirror/d790c9117bbdf0bde04f0f942fc4dc8f11b13c4d/cloud/",
  "managed_dirs": [
   "mods",
   "config",
@@ -1285,9 +1285,9 @@
    "sha256": "cc525fb6b030d9e4d33176983f278919e17b33935e2ca568929bdfa98f2b44a0",
    "size": 77555
   },
-  "mods/CreativeCore_NEOFORGE_v2.13.52_mc1.21.1.jar": {
-   "sha256": "c24e1f6602315ab34f8f01c87760d3a4a682e6d77a6b4880b73cd7e6c80338b9",
-   "size": 1236541
+  "mods/CreativeCore_NEOFORGE_v2.13.53_mc1.21.1.jar": {
+   "sha256": "18d647e26ff23299b2bde805ad69ec8717d77ae8b06e1f36ca9cf17d13247b79",
+   "size": 1236971
   },
   "mods/Drip_Sounds-0.6.3+1.21.8-NeoForge.jar": {
    "sha256": "d5ad3eceefda8791fc02041614164c5b639c6fae199926711cd41e7dc9838f12",
@@ -1968,9 +1968,9 @@
  "_mirror": {
   "note": "Запасной индекс. Рабочий — download.inflexus.world/cloud/index_v3.json; сюда лаунчер приходит, только если тот не ответил. Генерируется автоматически (Relay 146, gh_mirror_sync.py) — руками не править.",
   "source": "https://download.inflexus.world/cloud/index_v3.json",
-  "source_generated": 1794059881,
+  "source_generated": 1794092881,
   "mirror": "https://github.com/milkycloud-dev/notebuns-cdn-mirror",
-  "commit": "07952385b437d8951a2830c2b91e00217794a7d0",
-  "synced_at": "2026-11-07T14:02:52Z"
+  "commit": "d790c9117bbdf0bde04f0f942fc4dc8f11b13c4d",
+  "synced_at": "2026-11-07T23:12:51Z"
  }
 }
