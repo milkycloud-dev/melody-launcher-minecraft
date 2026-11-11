@@ -1,9 +1,9 @@
 {
  "schema": 3,
- "generated": 1794222002,
+ "generated": 1794359281,
  "launcher_version": "3.0.0",
  "minecraft_version": "1.21.1",
- "base_url": "https://raw.githubusercontent.com/milkycloud-dev/notebuns-cdn-mirror/c916bc9cc2750e59ccb0b6c5415352a1f0f176f0/cloud/",
+ "base_url": "https://raw.githubusercontent.com/milkycloud-dev/notebuns-cdn-mirror/f2655a224b4804bf600ee72803cf26b52f9431be/cloud/",
  "managed_dirs": [
   "mods",
   "config",
@@ -1385,9 +1385,9 @@
    "sha256": "43bf78569341397ac67901029bf199aa98cd11db70373bccfc87975b4a9c53bb",
    "size": 538832
   },
-  "mods/amendments-1.21-2.2.2-neoforge.jar": {
-   "sha256": "9c48c7c6ec4f743a4eb4c8e80473c7204e6632287b2c5bfeb370be27482618dc",
-   "size": 1187127
+  "mods/amendments-1.21-2.2.7-neoforge.jar": {
+   "sha256": "352d8d9752d9a3ca66a976535d28d622d21b8a1ec58d1876a3f34dbda6eb3253",
+   "size": 1212703
   },
   "mods/anvianslib-neoforge-1.21-1.4.2.jar": {
    "sha256": "7bc8e8204699c08870ae022e7a7356ee872adf4e0a56d29d5be82ea3f22922b7",
@@ -1429,9 +1429,9 @@
    "sha256": "6be660e1f6d169553bf44f66d4f78bb9e96a1d66ce108d9608819e3ce6bfba34",
    "size": 783793
   },
-  "mods/bclib-21.0.28.jar": {
-   "sha256": "e8d5b8ce29d51eb0845c19fd2172d99237841bd20bc4bc25b7cbf4965a5ad506",
-   "size": 2167518
+  "mods/bclib-21.0.29.jar": {
+   "sha256": "cf15a9c045d127c3b391945508ef8156bb8f6e2538eef8971ef9cc4b9c76d9ae",
+   "size": 2167867
   },
   "mods/beautify-neoforge-1.21.1-2.0.2.jar": {
    "sha256": "30fe272345eb016408d9144a7d33795a8bff0f33f68d9ab71805d0088b818f26",
@@ -1565,9 +1565,9 @@
    "sha256": "bcbb5d8479032690d53debfcf61c0477080ff6d1d4dae9a9a85122b47377646a",
    "size": 5612888
   },
-  "mods/fwa+1.21.1-neoforge-1.2.31.jar": {
-   "sha256": "bb57d6ab7161b3ef0e72a67537728dfc4aee706b4b15a367362903623d8ce1b0",
-   "size": 385558
+  "mods/fwa+1.21.1-neoforge-1.3.4.jar": {
+   "sha256": "a2a857407a60f89fbca0c087d719301bd0a3d7abdbb75f3f16f1bdd58bf03b32",
+   "size": 406749
   },
   "mods/geckolib-neoforge-1.21.1-4.9.3.jar": {
    "sha256": "20a1995e4074f387ff549e2c57ea79dd7d41ee83c6afb9dd6a6e840e592d1c47",
@@ -1661,9 +1661,9 @@
    "sha256": "7010aae2e837122fe8dabd5932358e2ba334fcbc62ca6530cb1cb00402d2c63b",
    "size": 614138
   },
-  "mods/moonlight-1.21.1-3.7.2-neoforge.jar": {
-   "sha256": "4a9f15108607cc70273f8a0b6eb24e1e99af8eef44bc3ae8681767ca7ce21b0f",
-   "size": 2299162
+  "mods/moonlight-1.21.1-3.8.3-neoforge.jar": {
+   "sha256": "d487a1101ab90998f5b4a2bceca42789e85a45c25700556de49fb9a2d2a11bd0",
+   "size": 2327347
   },
   "mods/mru-1.0.41+1.21.1-neoforge.jar": {
    "sha256": "245ebec0b410fb1a7456bb0cd970ea015fb7c243a0f45a4d79d655dc01bb6d89",
@@ -1713,9 +1713,9 @@
    "sha256": "d96e4b5735bd05c7210892f75bf078a0a4cac67a8d99f28076e5a4a57fd4e2cd",
    "size": 652840
   },
-  "mods/punchy-2.8g-neoforge-1.21.1.jar": {
-   "sha256": "13cc051fc6fecb4b680541702ab485520a37f9f9c26e682d6ffd1eb8bda547d9",
-   "size": 2056747
+  "mods/punchy-3.2a-neoforge-1.21.1.jar": {
+   "sha256": "a2f9f978dafd7f12dc6859f7c20f8b46c3753ad31a27dc786961cb652b5ab060",
+   "size": 4082306
   },
   "mods/puzzleslib-v21.1.66-mc1.21.1+neoforge.jar": {
    "sha256": "cb02de7e1d4a133746ec7b43a64eddc2cb621122cdc49e134a15272f456c31f2",
@@ -1821,8 +1821,8 @@
    "sha256": "8bab1db6db37324d10d38ecc24d304d20115db3249712befc06be1d9824ea20e",
    "size": 128893
   },
-  "mods/travelersbackpack-neoforge-1.21.1-10.1.40.jar": {
-   "sha256": "b00b29622d0950470ad60497c0682d25e8f1327afe7dab2551fa53d2691fe2cb",
+  "mods/travelersbackpack-neoforge-1.21.1-10.1.41.jar": {
+   "sha256": "c0fabf0ff28654f23a5a11697f2222377b5df2eb870deddd646e1f911ce0ffd1",
    "size": 1444892
   },
   "mods/twilightforest-1.21.1-4.8.3345-universal.jar": {
@@ -1968,9 +1968,9 @@
  "_mirror": {
   "note": "Запасной индекс. Рабочий — download.inflexus.world/cloud/index_v3.json; сюда лаунчер приходит, только если тот не ответил. Генерируется автоматически (Relay 146, gh_mirror_sync.py) — руками не править.",
   "source": "https://download.inflexus.world/cloud/index_v3.json",
-  "source_generated": 1794222002,
+  "source_generated": 1794359281,
   "mirror": "https://github.com/milkycloud-dev/notebuns-cdn-mirror",
-  "commit": "c916bc9cc2750e59ccb0b6c5415352a1f0f176f0",
-  "synced_at": "2026-11-09T11:03:01Z"
+  "commit": "f2655a224b4804bf600ee72803cf26b52f9431be",
+  "synced_at": "2026-11-11T01:12:59Z"
  }
 }
