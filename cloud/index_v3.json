@@ -1,9 +1,9 @@
 {
  "schema": 3,
- "generated": 1794622081,
+ "generated": 1794760801,
  "launcher_version": "3.0.0",
  "minecraft_version": "1.21.1",
- "base_url": "https://raw.githubusercontent.com/milkycloud-dev/notebuns-cdn-mirror/54d08e70599072045dd76ef53f7c2041f58650cb/cloud/",
+ "base_url": "https://raw.githubusercontent.com/milkycloud-dev/notebuns-cdn-mirror/a71c4d4a248c1e74d6535a88fbe2be75d1b24370/cloud/",
  "managed_dirs": [
   "mods",
   "config",
@@ -1285,9 +1285,9 @@
    "sha256": "cc525fb6b030d9e4d33176983f278919e17b33935e2ca568929bdfa98f2b44a0",
    "size": 77555
   },
-  "mods/CreativeCore_NEOFORGE_v2.13.53_mc1.21.1.jar": {
-   "sha256": "18d647e26ff23299b2bde805ad69ec8717d77ae8b06e1f36ca9cf17d13247b79",
-   "size": 1236971
+  "mods/CreativeCore_NEOFORGE_v2.13.54_mc1.21.1.jar": {
+   "sha256": "fcfe3efb65f98d6ff5c9bbc3b4db69ef7971797d2c656d5e607238d48ba07239",
+   "size": 1237192
   },
   "mods/Drip_Sounds-0.6.3+1.21.8-NeoForge.jar": {
    "sha256": "d5ad3eceefda8791fc02041614164c5b639c6fae199926711cd41e7dc9838f12",
@@ -1669,9 +1669,9 @@
    "sha256": "245ebec0b410fb1a7456bb0cd970ea015fb7c243a0f45a4d79d655dc01bb6d89",
    "size": 151764
   },
-  "mods/notebuns-menu-1.4.10.jar": {
-   "sha256": "b38ae33b4c706398b26499485981066cd861176abb138a117cde612f165a5d77",
-   "size": 62751
+  "mods/notebuns-menu-1.4.11.jar": {
+   "sha256": "8a93c8ffb5f3b8fabbf02b7bd294bbf345f0581865bab22e74e3a5d8e1cc395c",
+   "size": 62842
   },
   "mods/notebuns-radio-1.0.1.jar": {
    "sha256": "f94e9b0610d5cd65341e589236257046d628e44410325b59a07ab39d1c127b51",
@@ -1968,9 +1968,9 @@
  "_mirror": {
   "note": "Запасной индекс. Рабочий — download.inflexus.world/cloud/index_v3.json; сюда лаунчер приходит, только если тот не ответил. Генерируется автоматически (Relay 146, gh_mirror_sync.py) — руками не править.",
   "source": "https://download.inflexus.world/cloud/index_v3.json",
-  "source_generated": 1794622081,
+  "source_generated": 1794760801,
   "mirror": "https://github.com/milkycloud-dev/notebuns-cdn-mirror",
-  "commit": "54d08e70599072045dd76ef53f7c2041f58650cb",
-  "synced_at": "2026-11-14T02:13:08Z"
+  "commit": "a71c4d4a248c1e74d6535a88fbe2be75d1b24370",
+  "synced_at": "2026-11-15T16:42:54Z"
  }
 }
