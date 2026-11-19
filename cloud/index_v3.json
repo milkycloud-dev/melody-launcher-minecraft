@@ -1,9 +1,9 @@
 {
  "schema": 3,
- "generated": 1794981002,
+ "generated": 1795054081,
  "launcher_version": "3.0.0",
  "minecraft_version": "1.21.1",
- "base_url": "https://raw.githubusercontent.com/milkycloud-dev/notebuns-cdn-mirror/848a803fda35983d114ce8f8ee4069f31c49bf03/cloud/",
+ "base_url": "https://raw.githubusercontent.com/milkycloud-dev/notebuns-cdn-mirror/b037fc0f23e186d0ddc5c765dd6a9032f07e54f0/cloud/",
  "managed_dirs": [
   "mods",
   "config",
@@ -1940,8 +1940,8 @@
    "extract_to": ""
   },
   "archives/versions.zip": {
-   "sha256": "d4fbe36a37b93ec625b935de323d15704a5b60216b8b36dde0abc927cea7e059",
-   "size": 33923959,
+   "sha256": "e87988d4892c98ecf80a8a821fa3badca28474b0fa97226ef2e84b6d7b2a9c37",
+   "size": 33934185,
    "extract_to": ""
   },
   "archives/shaderpacks.zip": {
@@ -1968,9 +1968,9 @@
  "_mirror": {
   "note": "Запасной индекс. Рабочий — download.inflexus.world/cloud/index_v3.json; сюда лаунчер приходит, только если тот не ответил. Генерируется автоматически (Relay 146, gh_mirror_sync.py) — руками не править.",
   "source": "https://download.inflexus.world/cloud/index_v3.json",
-  "source_generated": 1794981002,
+  "source_generated": 1795054081,
   "mirror": "https://github.com/milkycloud-dev/notebuns-cdn-mirror",
-  "commit": "848a803fda35983d114ce8f8ee4069f31c49bf03",
-  "synced_at": "2026-11-18T05:53:03Z"
+  "commit": "b037fc0f23e186d0ddc5c765dd6a9032f07e54f0",
+  "synced_at": "2026-11-19T02:12:57Z"
  }
 }
