@@ -1,9 +1,9 @@
 {
  "schema": 3,
- "generated": 1795054081,
+ "generated": 1795148281,
  "launcher_version": "3.0.0",
  "minecraft_version": "1.21.1",
- "base_url": "https://raw.githubusercontent.com/milkycloud-dev/notebuns-cdn-mirror/b037fc0f23e186d0ddc5c765dd6a9032f07e54f0/cloud/",
+ "base_url": "https://raw.githubusercontent.com/milkycloud-dev/notebuns-cdn-mirror/ff27a7100c19076d92faf3166e40d1dbb914ec31/cloud/",
  "managed_dirs": [
   "mods",
   "config",
@@ -1593,9 +1593,9 @@
    "sha256": "6796004ed983691a502fb7686828d840adc79110ad8c582a68787a108a7ed355",
    "size": 453902
   },
-  "mods/immersive_melodies-neoforge-0.8.2+1.21.1.jar": {
-   "sha256": "345a54e22143ef3fa18c599a2972febe8916b5f522785dde04db688a4491792d",
-   "size": 5570070
+  "mods/immersive_melodies-neoforge-0.8.4+1.21.1.jar": {
+   "sha256": "05f47b74be4ee5dc578c14b703f1775df4ed44042573c790b96c1e03a52ca29e",
+   "size": 5572065
   },
   "mods/iris-neoforge-1.8.14-beta.1+mc1.21.1.jar": {
    "sha256": "60d5f8bf52f25e9986440f4a4270a6bd986d9cff994510e1108ac1547063b314",
@@ -1968,9 +1968,9 @@
  "_mirror": {
   "note": "Запасной индекс. Рабочий — download.inflexus.world/cloud/index_v3.json; сюда лаунчер приходит, только если тот не ответил. Генерируется автоматически (Relay 146, gh_mirror_sync.py) — руками не править.",
   "source": "https://download.inflexus.world/cloud/index_v3.json",
-  "source_generated": 1795054081,
+  "source_generated": 1795148281,
   "mirror": "https://github.com/milkycloud-dev/notebuns-cdn-mirror",
-  "commit": "b037fc0f23e186d0ddc5c765dd6a9032f07e54f0",
-  "synced_at": "2026-11-19T02:12:57Z"
+  "commit": "ff27a7100c19076d92faf3166e40d1dbb914ec31",
+  "synced_at": "2026-11-20T04:22:58Z"
  }
 }
